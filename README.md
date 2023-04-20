@@ -13,8 +13,8 @@ Component Selection
 | Display | CFAL128128B0-011W | [CFAL128128B0-011W](https://www.crystalfontz.com/products/document/3814/CFAL128128B0-011W_Datasheet.pdf) |
 | Battery | RJD3048 | [RJD3048](https://www.mouser.com/datasheet/2/88/RJD-2944769.pdf) |
 | Battery Clip | 3046 | [3046](https://www.mouser.com/datasheet/2/215/3046-1947340.pdf) |
-| Environmental Sensor | BME280 | [BME280] (https://www.mouser.com/datasheet/2/783/bst_bme280_ds002-2238172.pdf) |
-| GNSS Receiver | EVA-M8Q | [EVA-M8Q] (https://www.mouser.com/datasheet/2/1025/EVA_M8_FW3_DataSheet__UBX_16014189_-2010107.pdf) |
+| Environmental Sensor | BME280 | [BME280](https://www.mouser.com/datasheet/2/783/bst_bme280_ds002-2238172.pdf) |
+| GNSS Receiver | EVA-M8Q | [EVA-M8Q](https://www.mouser.com/datasheet/2/1025/EVA_M8_FW3_DataSheet__UBX_16014189_-2010107.pdf) |
 | Protection / Fuel Gauge | BQ27Z746 | [BQ27Z746](https://www.ti.com/lit/ds/symlink/bq27z746.pdf) |
 | Battery Charger | TBD | |
 | Main SMPS | TPS631000 | [TPS631000](https://www.ti.com/lit/ds/symlink/tps631000.pdf) |
