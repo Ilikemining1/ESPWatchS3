@@ -5,6 +5,7 @@
 *.000
 *.bak
 *.bck
+*.zip
 *.kicad_pcb-bak
 *.sch-bak
 *~
@@ -24,3 +25,7 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+*-backups
+*.kicad_prl
+.DS_Store
