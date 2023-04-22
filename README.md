@@ -15,9 +15,9 @@ Component Selection
 | Battery Clip | 3046 | [3046](https://www.mouser.com/datasheet/2/215/3046-1947340.pdf) |
 | Environmental Sensor | BME280 | [BME280](https://www.mouser.com/datasheet/2/783/bst_bme280_ds002-2238172.pdf) |
 | GNSS Receiver | EVA-M8Q | [EVA-M8Q](https://www.mouser.com/datasheet/2/1025/EVA_M8_FW3_DataSheet__UBX_16014189_-2010107.pdf) |
-| Protection / Fuel Gauge | BQ27Z746 | [BQ27Z746](https://www.ti.com/lit/ds/symlink/bq27z746.pdf) |
-| Battery Charger | TBD | |
+| Protection / Fuel Gauge / Charger | MAX17330 | [MAX17330](https://www.analog.com/media/en/technical-documentation/data-sheets/max17330.pdf) |
 | Main SMPS | TPS631000 | [TPS631000](https://www.ti.com/lit/ds/symlink/tps631000.pdf) |
+| OLED SMPS | AP3012 | [AP3012](https://www.diodes.com/assets/Datasheets/AP3012.pdf) |
 
 ESP GPIO Allocation
 -------------------
