@@ -154,11 +154,11 @@
       )
     )
     (symbol "BQ27Z746_1_1"
-      (pin output line (at -5.08 22.86 270) (length 5.08)
+      (pin output line (at -7.62 22.86 270) (length 5.08)
         (name "CHG" (effects (font (size 1.27 1.27))))
         (number "A1" (effects (font (size 1.27 1.27))))
       )
-      (pin output line (at 5.08 22.86 270) (length 5.08)
+      (pin output line (at 7.62 22.86 270) (length 5.08)
         (name "DSG" (effects (font (size 1.27 1.27))))
         (number "A2" (effects (font (size 1.27 1.27))))
       )
