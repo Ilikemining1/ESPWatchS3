@@ -62,10 +62,10 @@ ESP GPIO Allocation
 | 36 | SPI IO 7 (PSRAM) |
 | 37 | SPI DQS (PSRAM) |
 | 38 | Free |
-| 39 | Free (Default JTAG) |
-| 40 | Free (Default JTAG) |
-| 41 | Free (Default JTAG) |
-| 42 | Free (Default JTAG) |
+| 39 | Free |
+| 40 | Free |
+| 41 | Free |
+| 42 | Free |
 | 43 | UART 0 TX |
 | 44 | UART 0 RX |
 | 45 | Flash Voltage Select (Strapping) |
