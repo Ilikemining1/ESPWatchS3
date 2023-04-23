@@ -12,7 +12,7 @@ Component Selection
 | Display | CFAL128128B0-011W | [CFAL128128B0-011W](https://www.crystalfontz.com/products/document/3814/CFAL128128B0-011W_Datasheet.pdf) |
 | Environmental Sensor | BME280 | [BME280](https://www.mouser.com/datasheet/2/783/bst_bme280_ds002-2238172.pdf) |
 | GNSS Receiver | EVA-M8Q-0 | [EVA-M8Q](https://www.mouser.com/datasheet/2/1025/EVA_M8_FW3_DataSheet__UBX_16014189_-2010107.pdf) |
-| Flash | IS25WP128F-JKLE (16MB) | [IS25WP128](https://www.issi.com/WW/pdf/25LP-WP128F.pdf) |
+| Flash | IS25LP128F-JKLE (16MB) | [IS25WP128](https://www.issi.com/WW/pdf/25LP-WP128F.pdf) |
 | | | |
 | Battery Protection | BQ298012RUGR | [BQ298012](https://www.ti.com/lit/ds/symlink/bq2982.pdf) |
 | Battery Charger | BQ24075RGTR | [BQ24075](https://www.ti.com/lit/ds/symlink/bq24075.pdf) |
