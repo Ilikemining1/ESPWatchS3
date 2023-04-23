@@ -11,17 +11,17 @@ Component Selection
 | MCU | ESP32-S3R8 | [ESP32-S3](https://www.espressif.com/sites/default/files/documentation/esp32-s3_datasheet_en.pdf) |
 | Display | CFAL128128B0-011W | [CFAL128128B0-011W](https://www.crystalfontz.com/products/document/3814/CFAL128128B0-011W_Datasheet.pdf) |
 | Environmental Sensor | BME280 | [BME280](https://www.mouser.com/datasheet/2/783/bst_bme280_ds002-2238172.pdf) |
-| GNSS Receiver | EVA-M8Q | [EVA-M8Q](https://www.mouser.com/datasheet/2/1025/EVA_M8_FW3_DataSheet__UBX_16014189_-2010107.pdf) |
+| GNSS Receiver | EVA-M8Q-0 | [EVA-M8Q](https://www.mouser.com/datasheet/2/1025/EVA_M8_FW3_DataSheet__UBX_16014189_-2010107.pdf) |
 | Flash | IS25WP128F-JKLE (16MB) | [IS25WP128](https://www.issi.com/WW/pdf/25LP-WP128F.pdf) |
 | | | |
-| Battery Protection | BQ298012 | [BQ298012](https://www.ti.com/lit/ds/symlink/bq2982.pdf) |
+| Battery Protection | BQ298012RUGR | [BQ298012](https://www.ti.com/lit/ds/symlink/bq2982.pdf) |
 | Battery Charger | BQ24075RGTR | [BQ24075](https://www.ti.com/lit/ds/symlink/bq24075.pdf) |
 | Fuel Gauge | BQ27441DRZR-G1A | [BQ27441-G1](https://www.ti.com/lit/ds/symlink/bq27441-g1.pdf) |
 | Battery | RJD3048 | [RJD3048](https://www.mouser.com/datasheet/2/88/RJD-2944769.pdf) |
 | Battery Clip | 3046 | [3046](https://www.mouser.com/datasheet/2/215/3046-1947340.pdf) |
 | | | |
-| Main SMPS | TPS631000 | [TPS631000](https://www.ti.com/lit/ds/symlink/tps631000.pdf) |
-| OLED SMPS | AP3012 | [AP3012](https://www.diodes.com/assets/Datasheets/AP3012.pdf) |
+| Main SMPS | TPS631000DRLR | [TPS631000](https://www.ti.com/lit/ds/symlink/tps631000.pdf) |
+| OLED SMPS | AP3012KTR-G1 | [AP3012](https://www.diodes.com/assets/Datasheets/AP3012.pdf) |
 
 ESP GPIO Allocation
 -------------------
@@ -37,15 +37,15 @@ ESP GPIO Allocation
 | 7 | Free |
 | 8 | Free |
 | 9 | Free |
-| 10 | Free |
-| 11 | Free |
-| 12 | Free |
-| 13 | Free |
-| 14 | Free |
-| 15 | Free |
-| 16 | Free |
-| 17 | Free |
-| 18 | Free |
+| 10 | OLED CS |
+| 11 | OLED MOSI |
+| 12 | OLED SCK |
+| 13 | OLED D/C |
+| 14 | OLED RST |
+| 15 | 32KHz XTAL |
+| 16 | 32KHz XTAL |
+| 17 | GNSS RX (UART 1 TX) |
+| 18 | GNSS TX (UART 1 RX) |
 | 19 | USB- |
 | 20 | USB+ |
 | 21 | Free |
