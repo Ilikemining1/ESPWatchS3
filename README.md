@@ -31,12 +31,12 @@ ESP GPIO Allocation
 | 1 | I<sup>2</sup>C SCL |
 | 2 | I<sup>2</sup>C SDA |
 | 3 | JTAG Source Select (Strapping) |
-| 4 | Free |
-| 5 | Free |
-| 6 | Free |
-| 7 | Free |
-| 8 | Free |
-| 9 | Free |
+| 4 | Charge Enable |
+| 5 | Input Current 1 |
+| 6 | Input Current 2 |
+| 7 | SMPS Mode |
+| 8 | OLED VCC Enable |
+| 9 | GNSS TX Ready |
 | 10 | OLED CS |
 | 11 | OLED MOSI |
 | 12 | OLED SCK |
@@ -48,7 +48,7 @@ ESP GPIO Allocation
 | 18 | GNSS TX (UART 1 RX) |
 | 19 | USB- |
 | 20 | USB+ |
-| 21 | Free |
+| 21 | GNSS Timepulse |
 | 26 | SPI CS 1 (PSRAM) |
 | 27 | SPI Hold (Flash / PSRAM) |
 | 28 | SPI WP (Flash / PSRAM) |
@@ -62,10 +62,10 @@ ESP GPIO Allocation
 | 36 | SPI IO 7 (PSRAM) |
 | 37 | SPI DQS (PSRAM) |
 | 38 | Free |
-| 39 | Free |
-| 40 | Free |
-| 41 | Free |
-| 42 | Free |
+| 39 | User Switch 1 |
+| 40 | User Switch 2 |
+| 41 | User Switch 3 |
+| 42 | User Switch 4 |
 | 43 | UART 0 TX |
 | 44 | UART 0 RX |
 | 45 | Flash Voltage Select (Strapping) |
