@@ -28,8 +28,8 @@ ESP GPIO Allocation
 | GPIO | Function |
 |------|----------|
 | 0 | Bootloader (Strapping) |
-| 1 | I<sup>2</sup>C SCL |
-| 2 | I<sup>2</sup>C SDA |
+| 1 | I<sup>2</sup>C SDA |
+| 2 | I<sup>2</sup>C SCL |
 | 3 | JTAG Source Select (Strapping) |
 | 4 | Charge Enable |
 | 5 | Input Current 1 |
