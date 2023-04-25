@@ -257,6 +257,10 @@
         (name "GPOUT" (effects (font (size 1.27 1.27))))
         (number "12" (effects (font (size 1.27 1.27))))
       )
+      (pin power_in line (at 15.24 -15.24 180) (length 2.54) hide
+        (name "EP" (effects (font (size 1.27 1.27))))
+        (number "13" (effects (font (size 1.27 1.27))))
+      )
       (pin bidirectional line (at -15.24 15.24 0) (length 2.54)
         (name "SCL" (effects (font (size 1.27 1.27))))
         (number "2" (effects (font (size 1.27 1.27))))
@@ -995,6 +999,10 @@
       (pin power_in line (at 0 12.7 270) (length 2.54)
         (name "VCC" (effects (font (size 1.27 1.27))))
         (number "8" (effects (font (size 1.27 1.27))))
+      )
+      (pin power_in line (at 0 -15.24 90) (length 2.54) hide
+        (name "EP" (effects (font (size 1.27 1.27))))
+        (number "9" (effects (font (size 1.27 1.27))))
       )
     )
   )
