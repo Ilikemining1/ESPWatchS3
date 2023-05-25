@@ -5,7 +5,7 @@
 *.000
 *.bak
 *.bck
-*.zip
+*backup.zip
 *.kicad_pcb-bak
 *.sch-bak
 *~
