@@ -69,5 +69,5 @@ ESP GPIO Allocation
 | 44 | UART 0 RX |
 | 45 | Flash Voltage Select (Strapping) |
 | 46 | ROM Messages (Strapping) |
-| 47 | Status LED 1 |
-| 48 | Status LED 2 |
+| 47 | Free |
+| 48 | Free |
