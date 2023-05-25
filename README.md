@@ -16,7 +16,7 @@ Component Selection
 | | | |
 | Battery Charger | BQ24075RGTR | [BQ24075](https://www.ti.com/lit/ds/symlink/bq24075.pdf) |
 | Fuel Gauge | BQ27441DRZR-G1A | [BQ27441-G1](https://www.ti.com/lit/ds/symlink/bq27441-g1.pdf) |
-| Battery | ASR00007 | [ASR00007]https://www.mouser.com/datasheet/2/855/ASR00007_290mAh-3078659.pdf) |
+| Battery | ASR00007 | [ASR00007](https://www.mouser.com/datasheet/2/855/ASR00007_290mAh-3078659.pdf) |
 | Battery Connector | SM02B-SRSS-TB(LF)(SN) | [SM02B-SRSS-TB(LF)(SN)](https://www.jst-mfg.com/product/pdf/eng/eSH.pdf) |
 | | | |
 | Main SMPS | TPS631000DRLR | [TPS631000](https://www.ti.com/lit/ds/symlink/tps631000.pdf) |
