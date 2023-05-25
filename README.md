@@ -14,11 +14,10 @@ Component Selection
 | GNSS Receiver | EVA-M8Q-0 | [EVA-M8Q](https://www.mouser.com/datasheet/2/1025/EVA_M8_FW3_DataSheet__UBX_16014189_-2010107.pdf) |
 | Flash | IS25LP128F-JKLE (16MB) | [IS25WP128](https://www.issi.com/WW/pdf/25LP-WP128F.pdf) |
 | | | |
-| Battery Protection | BQ298012RUGR | [BQ298012](https://www.ti.com/lit/ds/symlink/bq2982.pdf) |
 | Battery Charger | BQ24075RGTR | [BQ24075](https://www.ti.com/lit/ds/symlink/bq24075.pdf) |
 | Fuel Gauge | BQ27441DRZR-G1A | [BQ27441-G1](https://www.ti.com/lit/ds/symlink/bq27441-g1.pdf) |
-| Battery | RJD3048 | [RJD3048](https://www.mouser.com/datasheet/2/88/RJD-2944769.pdf) |
-| Battery Clip | 3046 | [3046](https://www.mouser.com/datasheet/2/215/3046-1947340.pdf) |
+| Battery | ASR00007 | [ASR00007]https://www.mouser.com/datasheet/2/855/ASR00007_290mAh-3078659.pdf) |
+| Battery Connector | SM02B-SRSS-TB(LF)(SN) | [SM02B-SRSS-TB(LF)(SN)](https://www.jst-mfg.com/product/pdf/eng/eSH.pdf) |
 | | | |
 | Main SMPS | TPS631000DRLR | [TPS631000](https://www.ti.com/lit/ds/symlink/tps631000.pdf) |
 | OLED SMPS | AP3012KTR-G1 | [AP3012](https://www.diodes.com/assets/Datasheets/AP3012.pdf) |
