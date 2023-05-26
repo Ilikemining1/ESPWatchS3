@@ -2378,7 +2378,7 @@
   (junction (at 82.55 251.46) (diameter 0) (color 0 0 0 0)
     (uuid 0c8b1fe3-23ed-4c47-9377-a4f531117ce1)
   )
-  (junction (at 116.205 146.685) (diameter 0) (color 0 0 0 0)
+  (junction (at 42.545 146.05) (diameter 0) (color 0 0 0 0)
     (uuid 0d005781-4372-47bb-9bfd-5601381e5105)
   )
   (junction (at 227.965 127.635) (diameter 0) (color 0 0 0 0)
@@ -2456,7 +2456,7 @@
   (junction (at 340.995 58.42) (diameter 0) (color 0 0 0 0)
     (uuid 4bcc0761-a2dd-46e6-abad-1531618fe6c2)
   )
-  (junction (at 104.775 156.845) (diameter 0) (color 0 0 0 0)
+  (junction (at 31.115 156.21) (diameter 0) (color 0 0 0 0)
     (uuid 4d0a4a75-8342-4c53-be95-4337955f846e)
   )
   (junction (at 25.4 251.46) (diameter 0) (color 0 0 0 0)
@@ -2573,7 +2573,7 @@
   (junction (at 34.29 41.275) (diameter 0) (color 0 0 0 0)
     (uuid ba3f3f7c-2e3f-4235-a186-c8a2e389489e)
   )
-  (junction (at 104.775 136.525) (diameter 0) (color 0 0 0 0)
+  (junction (at 31.115 135.89) (diameter 0) (color 0 0 0 0)
     (uuid bbca7bc2-615f-4300-9d11-064c6604ec44)
   )
   (junction (at 38.735 55.245) (diameter 0) (color 0 0 0 0)
@@ -2665,7 +2665,7 @@
     (stroke (width 0) (type default))
     (uuid 01567073-0983-4953-b6fe-4607527827eb)
   )
-  (wire (pts (xy 33.655 149.225) (xy 33.655 151.765))
+  (wire (pts (xy 86.36 155.575) (xy 86.36 158.115))
     (stroke (width 0) (type default))
     (uuid 030edc51-b2f8-4075-8f27-d571ff052060)
   )
@@ -2713,7 +2713,7 @@
     (stroke (width 0) (type default))
     (uuid 0da1eca3-1233-4b73-a849-36a8da1838b5)
   )
-  (wire (pts (xy 56.515 149.225) (xy 56.515 151.765))
+  (wire (pts (xy 72.39 155.575) (xy 72.39 158.115))
     (stroke (width 0) (type default))
     (uuid 0db14905-e893-410c-b039-d3eb4499e618)
   )
@@ -2813,7 +2813,7 @@
     (stroke (width 0) (type default))
     (uuid 18a1045d-ddab-48aa-9579-7be90703eba4)
   )
-  (wire (pts (xy 56.515 141.605) (xy 56.515 144.145))
+  (wire (pts (xy 72.39 147.955) (xy 72.39 150.495))
     (stroke (width 0) (type default))
     (uuid 18eeb56e-204d-4b59-b1e6-9d607f620434)
   )
@@ -2909,7 +2909,7 @@
     (stroke (width 0) (type default))
     (uuid 23fa76d5-25da-46eb-83b9-d62bceee866a)
   )
-  (wire (pts (xy 104.775 154.305) (xy 104.775 156.845))
+  (wire (pts (xy 31.115 153.67) (xy 31.115 156.21))
     (stroke (width 0) (type default))
     (uuid 244b87ae-5ec8-426a-ba52-afe9315cb90f)
   )
@@ -2929,11 +2929,11 @@
     (stroke (width 0) (type default))
     (uuid 25f9ebb0-128f-4332-96ae-cd337bbf4d70)
   )
-  (wire (pts (xy 116.205 136.525) (xy 104.775 136.525))
+  (wire (pts (xy 42.545 135.89) (xy 31.115 135.89))
     (stroke (width 0) (type default))
     (uuid 26c45f24-ff5d-4450-ac42-5fb530bb6c4b)
   )
-  (wire (pts (xy 70.485 141.605) (xy 70.485 144.145))
+  (wire (pts (xy 107.315 147.955) (xy 107.315 150.495))
     (stroke (width 0) (type default))
     (uuid 271f7b4f-33ef-4813-8055-e44b988ff327)
   )
@@ -3045,11 +3045,11 @@
     (stroke (width 0) (type default))
     (uuid 30d3658b-70e6-418e-8f5c-ed64a071de35)
   )
-  (wire (pts (xy 104.775 156.845) (xy 104.775 159.385))
+  (wire (pts (xy 31.115 156.21) (xy 31.115 158.75))
     (stroke (width 0) (type default))
     (uuid 3102389d-885c-470f-ba68-74a0a2cf9d05)
   )
-  (wire (pts (xy 92.075 141.605) (xy 92.075 144.145))
+  (wire (pts (xy 18.415 140.97) (xy 18.415 143.51))
     (stroke (width 0) (type default))
     (uuid 32c10bb7-7d79-44a9-890c-70d95c0bcc92)
   )
@@ -3169,7 +3169,7 @@
     (stroke (width 0) (type default))
     (uuid 403daa82-d462-4139-a427-4a6fca5b309a)
   )
-  (wire (pts (xy 116.205 142.875) (xy 116.205 146.685))
+  (wire (pts (xy 42.545 142.24) (xy 42.545 146.05))
     (stroke (width 0) (type default))
     (uuid 40514657-4ee7-4400-9e48-ff7cbda55096)
   )
@@ -3221,7 +3221,7 @@
     (stroke (width 0) (type default))
     (uuid 475a3c02-858d-4bda-ada3-ea8ba52d7bb3)
   )
-  (wire (pts (xy 70.485 149.225) (xy 70.485 151.765))
+  (wire (pts (xy 107.315 155.575) (xy 107.315 158.115))
     (stroke (width 0) (type default))
     (uuid 47b85913-9af1-4c50-8cdb-491ad78134bd)
   )
@@ -3241,7 +3241,7 @@
     (stroke (width 0) (type default))
     (uuid 4ba10238-c974-4dfb-8e8a-06faba47f10c)
   )
-  (wire (pts (xy 114.935 146.685) (xy 116.205 146.685))
+  (wire (pts (xy 41.275 146.05) (xy 42.545 146.05))
     (stroke (width 0) (type default))
     (uuid 4bc2127a-f3bf-4a73-a223-6bd84f15efd6)
   )
@@ -3261,7 +3261,7 @@
     (stroke (width 0) (type default))
     (uuid 4dfafb8b-fa92-4d67-a606-d70e777a0776)
   )
-  (wire (pts (xy 42.545 141.605) (xy 42.545 144.145))
+  (wire (pts (xy 95.25 147.955) (xy 95.25 150.495))
     (stroke (width 0) (type default))
     (uuid 4f70dd13-22c6-44a7-b098-9d688786de9e)
   )
@@ -3273,7 +3273,7 @@
     (stroke (width 0) (type default))
     (uuid 50920e0c-7718-4686-912f-2dd8ef54d6ff)
   )
-  (wire (pts (xy 116.205 146.685) (xy 116.205 150.495))
+  (wire (pts (xy 42.545 146.05) (xy 42.545 149.86))
     (stroke (width 0) (type default))
     (uuid 50b8e58c-0469-4209-a72c-5ce44cc6a8c7)
   )
@@ -3517,7 +3517,7 @@
     (stroke (width 0) (type default))
     (uuid 6fd149cd-ba12-47ad-a754-b886f2da0c7f)
   )
-  (wire (pts (xy 92.075 149.225) (xy 92.075 151.765))
+  (wire (pts (xy 18.415 148.59) (xy 18.415 151.13))
     (stroke (width 0) (type default))
     (uuid 7082b0ad-72eb-47ab-9aa2-37b383c6f129)
   )
@@ -3553,7 +3553,7 @@
     (stroke (width 0) (type default))
     (uuid 744e409d-e556-47f6-8673-e18c6ddb4978)
   )
-  (wire (pts (xy 33.655 141.605) (xy 33.655 144.145))
+  (wire (pts (xy 86.36 147.955) (xy 86.36 150.495))
     (stroke (width 0) (type default))
     (uuid 756a5fc3-2419-45ff-b307-43c36b24a377)
   )
@@ -3685,7 +3685,7 @@
     (stroke (width 0) (type default))
     (uuid 884ea945-f408-4238-b023-cbec62da0e25)
   )
-  (wire (pts (xy 18.415 149.225) (xy 18.415 151.765))
+  (wire (pts (xy 61.595 155.575) (xy 61.595 158.115))
     (stroke (width 0) (type default))
     (uuid 896ff8f7-7849-44a1-b8d1-6c755cb4fdb9)
   )
@@ -3733,11 +3733,11 @@
     (stroke (width 0) (type default))
     (uuid 8cfe305e-2108-4651-926e-a8ebb519f9f5)
   )
-  (wire (pts (xy 104.775 136.525) (xy 104.775 139.065))
+  (wire (pts (xy 31.115 135.89) (xy 31.115 138.43))
     (stroke (width 0) (type default))
     (uuid 8d00c8c3-ddeb-4613-a3fb-7d40bf1765c9)
   )
-  (wire (pts (xy 42.545 149.225) (xy 42.545 151.765))
+  (wire (pts (xy 95.25 155.575) (xy 95.25 158.115))
     (stroke (width 0) (type default))
     (uuid 8d2b3c36-ab83-4ee8-b650-3772b77d6535)
   )
@@ -3865,7 +3865,7 @@
     (stroke (width 0) (type default))
     (uuid 9d29b82b-0ecc-46e1-ac36-6b5d0827f882)
   )
-  (wire (pts (xy 104.775 133.985) (xy 104.775 136.525))
+  (wire (pts (xy 31.115 133.35) (xy 31.115 135.89))
     (stroke (width 0) (type default))
     (uuid 9e68f021-9456-4f42-8833-b7ef668e2711)
   )
@@ -4033,7 +4033,7 @@
     (stroke (width 0) (type default))
     (uuid b6318e26-85fb-4128-b456-71d1afad1d10)
   )
-  (wire (pts (xy 18.415 141.605) (xy 18.415 144.145))
+  (wire (pts (xy 61.595 147.955) (xy 61.595 150.495))
     (stroke (width 0) (type default))
     (uuid b65cc748-f837-40e1-b8e0-91853c738aad)
   )
@@ -4053,7 +4053,7 @@
     (stroke (width 0) (type default))
     (uuid bb065107-53da-437d-89f1-962c1985cfae)
   )
-  (wire (pts (xy 116.205 156.845) (xy 104.775 156.845))
+  (wire (pts (xy 42.545 156.21) (xy 31.115 156.21))
     (stroke (width 0) (type default))
     (uuid bc010d8f-5791-4675-b0a5-5b2762ae64ee)
   )
@@ -4073,7 +4073,7 @@
     (stroke (width 0) (type default))
     (uuid bc95c0e0-a410-4278-8431-ecc59423f695)
   )
-  (wire (pts (xy 116.205 146.685) (xy 117.475 146.685))
+  (wire (pts (xy 42.545 146.05) (xy 43.815 146.05))
     (stroke (width 0) (type default))
     (uuid bc9d9afb-7b8f-4c1f-981a-df83fe854fdf)
   )
@@ -4101,7 +4101,7 @@
     (stroke (width 0) (type default))
     (uuid c00292cf-b77d-46e6-a4d7-664e25d7f3b4)
   )
-  (wire (pts (xy 78.105 149.225) (xy 78.105 151.765))
+  (wire (pts (xy 114.935 155.575) (xy 114.935 158.115))
     (stroke (width 0) (type default))
     (uuid c0e6876f-2b35-4752-a37d-d69bde497f05)
   )
@@ -4109,7 +4109,7 @@
     (stroke (width 0) (type default))
     (uuid c1b43e32-27ad-4bc9-ae86-adb28257a80c)
   )
-  (wire (pts (xy 116.205 155.575) (xy 116.205 156.845))
+  (wire (pts (xy 42.545 154.94) (xy 42.545 156.21))
     (stroke (width 0) (type default))
     (uuid c1c60ef0-98ba-4a19-9e50-744decfbbc60)
   )
@@ -4305,7 +4305,7 @@
     (stroke (width 0) (type default))
     (uuid dc8292c9-e763-4cc5-97e4-b0c4958446a0)
   )
-  (wire (pts (xy 78.105 141.605) (xy 78.105 144.145))
+  (wire (pts (xy 114.935 147.955) (xy 114.935 150.495))
     (stroke (width 0) (type default))
     (uuid dceb6f7d-480c-471a-af23-d50544e10471)
   )
@@ -4445,7 +4445,7 @@
     (stroke (width 0) (type default))
     (uuid f57decb8-1275-4b4b-b394-76bacef8f6ec)
   )
-  (wire (pts (xy 116.205 137.795) (xy 116.205 136.525))
+  (wire (pts (xy 42.545 137.16) (xy 42.545 135.89))
     (stroke (width 0) (type default))
     (uuid f5a07ce7-460f-4274-857c-4817ff022a65)
   )
@@ -4543,6 +4543,10 @@
     (uuid f60eb9e9-3919-4ef3-a7d7-fc6e6492acb1)
   )
 
+  (text "2 / 3" (at 108.585 142.24 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 091094bf-6a80-4777-8bd8-c6a505bcc62c)
+  )
   (text "Environmental Sensor" (at 250.825 88.9 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0e32aa73-d381-448d-b3e5-f468e39c30fe)
@@ -4555,6 +4559,14 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 46c6fae2-1bd1-49b5-8852-6009feef7996)
   )
+  (text "46" (at 71.12 142.24 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 5079e011-92f4-4458-b636-b3621fb74d88)
+  )
+  (text "55 / 56" (at 86.995 142.24 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 5cc4d5e8-873d-4823-8a2b-2fc85cac0c18)
+  )
   (text "USB Type-C" (at 307.34 88.265 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid a537ba02-7924-4e55-bc43-eececd74d55a)
@@ -4566,6 +4578,10 @@
   (text "OLED Bias Supply" (at 15.24 241.3 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid cbd850d5-49d7-43a5-945c-10fbec11240e)
+  )
+  (text "20" (at 60.96 142.24 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid eeca0a8b-af1c-4f6e-8c9f-edce5e0d21f9)
   )
   (text "Battery Charge / Fuel Gauge" (at 15.875 172.085 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -4644,7 +4660,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 4868326c-1f68-4578-bc53-4bd1ba2020f4)
   )
-  (label "ESP_RESET" (at 117.475 146.685 0) (fields_autoplaced)
+  (label "ESP_RESET" (at 43.815 146.05 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 5113c617-9f9c-4e60-9332-09185b45abd6)
   )
@@ -4873,7 +4889,7 @@
   (symbol (lib_id "power:GND") (at 33.655 229.87 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 01d3cd50-20b4-4792-a91e-31803106f07a)
-    (property "Reference" "#PWR?" (at 33.655 236.22 0)
+    (property "Reference" "#PWR0174" (at 33.655 236.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 33.655 234.315 0)
@@ -4889,7 +4905,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0174") (unit 1)
         )
       )
     )
@@ -4898,7 +4914,7 @@
   (symbol (lib_id "Device:C_Small") (at 39.37 36.195 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 033a4093-4f0b-4f79-92ae-469bbe1dc431)
-    (property "Reference" "C?" (at 41.91 35.5663 0)
+    (property "Reference" "C43" (at 41.91 35.5663 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "4.8p" (at 41.91 38.1063 0)
@@ -4915,7 +4931,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "C?") (unit 1)
+          (reference "C43") (unit 1)
         )
       )
     )
@@ -4924,13 +4940,13 @@
   (symbol (lib_id "Device:C_Small") (at 210.82 105.41 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 04953dae-8a64-42d4-9b31-47e9a7ba795d)
-    (property "Reference" "C?" (at 207.645 100.965 0)
+    (property "Reference" "C8" (at 207.645 100.965 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "4.7u" (at 209.55 103.505 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 210.82 105.41 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 210.82 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 210.82 105.41 0)
@@ -4941,7 +4957,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "C?") (unit 1)
+          (reference "C8") (unit 1)
         )
       )
     )
@@ -4950,7 +4966,7 @@
   (symbol (lib_id "power:GND") (at 160.655 42.545 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 069bb51f-db51-4cf0-b7c6-1f95b8e596e6)
-    (property "Reference" "#PWR?" (at 160.655 48.895 0)
+    (property "Reference" "#PWR0121" (at 160.655 48.895 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 160.655 47.625 0)
@@ -4966,25 +4982,25 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0121") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "Device:C_Small") (at 70.485 146.685 0) (unit 1)
+  (symbol (lib_id "Device:C_Small") (at 107.315 153.035 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 08b56f6f-0ed5-4f7d-8b4f-d091dbf04b18)
-    (property "Reference" "C?" (at 73.025 146.0563 0)
+    (property "Reference" "C18" (at 109.855 152.4063 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "1u" (at 73.025 148.5963 0)
+    (property "Value" "1u" (at 109.855 154.9463 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 70.485 146.685 0)
+    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 107.315 153.035 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 70.485 146.685 0)
+    (property "Datasheet" "~" (at 107.315 153.035 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 4da3e479-d215-466c-ae16-943ddf02aec4))
@@ -4992,7 +5008,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "C?") (unit 1)
+          (reference "C18") (unit 1)
         )
       )
     )
@@ -5001,7 +5017,7 @@
   (symbol (lib_id "power:GND") (at 253.365 118.11 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0a287f81-d170-470f-916f-0033cd0d8e39)
-    (property "Reference" "#PWR?" (at 253.365 124.46 0)
+    (property "Reference" "#PWR0132" (at 253.365 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 253.365 123.19 0)
@@ -5017,7 +5033,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0132") (unit 1)
         )
       )
     )
@@ -5026,7 +5042,7 @@
   (symbol (lib_id "power:+3V3") (at 163.83 112.268 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0b620008-b97c-4e60-8247-ff524a1a1339)
-    (property "Reference" "#PWR?" (at 163.83 116.078 0)
+    (property "Reference" "#PWR0122" (at 163.83 116.078 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 163.83 108.458 0)
@@ -5042,7 +5058,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0122") (unit 1)
         )
       )
     )
@@ -5051,7 +5067,7 @@
   (symbol (lib_id "Device:R_Small") (at 73.66 255.27 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0bc23927-80b7-4b05-8b73-7aae6a572198)
-    (property "Reference" "R?" (at 76.2 255.27 0)
+    (property "Reference" "R2" (at 76.2 255.27 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100k" (at 76.2 257.81 0)
@@ -5068,7 +5084,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "R?") (unit 1)
+          (reference "R2") (unit 1)
         )
       )
     )
@@ -5077,7 +5093,7 @@
   (symbol (lib_id "power:+3V3") (at 158.75 250.19 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 102faa53-ec99-46f9-a956-cdf012239a89)
-    (property "Reference" "#PWR?" (at 158.75 254 0)
+    (property "Reference" "#PWR0105" (at 158.75 254 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 158.75 246.38 0)
@@ -5093,7 +5109,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0105") (unit 1)
         )
       )
     )
@@ -5102,7 +5118,7 @@
   (symbol (lib_id "power:GND") (at 340.995 68.58 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 11365c9a-c0a8-4b05-bb86-56153aaf3486)
-    (property "Reference" "#PWR?" (at 340.995 74.93 0)
+    (property "Reference" "#PWR0137" (at 340.995 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 340.995 73.66 0)
@@ -5118,7 +5134,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0137") (unit 1)
         )
       )
     )
@@ -5127,13 +5143,13 @@
   (symbol (lib_id "Device:C_Small") (at 222.25 105.41 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 12a9cee6-746a-4c4d-a35b-a7d9b4db9def)
-    (property "Reference" "C?" (at 219.71 100.965 0)
+    (property "Reference" "C19" (at 219.71 100.965 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1u" (at 219.71 103.505 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 222.25 105.41 0)
+    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 222.25 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 222.25 105.41 0)
@@ -5144,7 +5160,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "C?") (unit 1)
+          (reference "C19") (unit 1)
         )
       )
     )
@@ -5153,7 +5169,7 @@
   (symbol (lib_id "power:GND") (at 104.14 273.05 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 13428199-5399-4610-bb60-8e68f255d43b)
-    (property "Reference" "#PWR?" (at 104.14 279.4 0)
+    (property "Reference" "#PWR0110" (at 104.14 279.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 104.14 278.13 0)
@@ -5169,7 +5185,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0110") (unit 1)
         )
       )
     )
@@ -5178,7 +5194,7 @@
   (symbol (lib_id "power:GND") (at 41.275 229.87 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 136b8135-55e3-4a3d-b3d8-1b739df4ed46)
-    (property "Reference" "#PWR?" (at 41.275 236.22 0)
+    (property "Reference" "#PWR0173" (at 41.275 236.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 41.275 234.315 0)
@@ -5194,7 +5210,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0173") (unit 1)
         )
       )
     )
@@ -5203,7 +5219,7 @@
   (symbol (lib_id "Device:C_Small") (at 151.13 265.43 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 14431927-8c7a-4f89-8ff4-af80ff04ba52)
-    (property "Reference" "C?" (at 156.21 264.16 0)
+    (property "Reference" "C25" (at 156.21 264.16 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1u" (at 157.48 266.7 0)
@@ -5220,7 +5236,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "C?") (unit 1)
+          (reference "C25") (unit 1)
         )
       )
     )
@@ -5229,7 +5245,7 @@
   (symbol (lib_id "WatchParts:W3008G") (at 23.495 26.035 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1511c9e6-23ab-4311-b0ce-3551a23b345a)
-    (property "Reference" "ANT?" (at 24.13 24.765 0)
+    (property "Reference" "ANT1" (at 24.13 24.765 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "W3008G" (at 24.13 26.67 0)
@@ -5247,7 +5263,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "ANT?") (unit 1)
+          (reference "ANT1") (unit 1)
         )
       )
     )
@@ -5256,7 +5272,7 @@
   (symbol (lib_id "Diode:MBR0530") (at 67.31 251.46 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 16d5e56c-7d6a-4c83-8c44-41559dc2fba5)
-    (property "Reference" "D?" (at 67.6275 246.38 0)
+    (property "Reference" "D1" (at 67.6275 246.38 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "MBR0530" (at 67.6275 248.92 0)
@@ -5273,7 +5289,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "D?") (unit 1)
+          (reference "D1") (unit 1)
         )
       )
     )
@@ -5282,7 +5298,7 @@
   (symbol (lib_id "power:GND") (at 48.26 117.475 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 185f8f3c-eecf-4957-bcb9-dc2c7c52ec68)
-    (property "Reference" "#PWR?" (at 48.26 123.825 0)
+    (property "Reference" "#PWR0150" (at 48.26 123.825 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 48.26 122.555 0)
@@ -5298,7 +5314,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0150") (unit 1)
         )
       )
     )
@@ -5307,7 +5323,7 @@
   (symbol (lib_id "Device:R_Small") (at 118.745 178.435 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1a9ea163-62e5-46d7-90df-0749acc3b345)
-    (property "Reference" "R?" (at 120.523 177.038 0)
+    (property "Reference" "R4" (at 120.523 177.038 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100k" (at 120.523 179.324 0)
@@ -5324,7 +5340,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "R?") (unit 1)
+          (reference "R4") (unit 1)
         )
       )
     )
@@ -5333,7 +5349,7 @@
   (symbol (lib_id "Device:R_Small") (at 81.915 201.295 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1b2e44e6-073a-45bf-b584-230a43eec6dc)
-    (property "Reference" "R?" (at 79.375 200.66 0)
+    (property "Reference" "R15" (at 79.375 200.66 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "10k" (at 79.375 203.2 0)
@@ -5350,7 +5366,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "R?") (unit 1)
+          (reference "R15") (unit 1)
         )
       )
     )
@@ -5359,7 +5375,7 @@
   (symbol (lib_id "Device:C_Small") (at 43.815 67.945 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1b30b1ec-7df9-4e45-9dbc-fa3ef6b08123)
-    (property "Reference" "C?" (at 43.815 74.295 90)
+    (property "Reference" "C40" (at 43.815 74.295 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10p" (at 43.815 71.755 90)
@@ -5376,25 +5392,25 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "C?") (unit 1)
+          (reference "C40") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "Device:R_Small") (at 116.205 140.335 0) (unit 1)
+  (symbol (lib_id "Device:R_Small") (at 42.545 139.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1dd3ec8e-b83a-45b9-a48c-bbb2a8770676)
-    (property "Reference" "R?" (at 118.745 139.7 0)
+    (property "Reference" "R17" (at 45.085 139.065 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "10k" (at 118.745 142.24 0)
+    (property "Value" "10k" (at 45.085 141.605 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 116.205 140.335 0)
+    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 42.545 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 116.205 140.335 0)
+    (property "Datasheet" "~" (at 42.545 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 4fd681c9-6983-4135-8e57-c5dfed0da64d))
@@ -5402,57 +5418,57 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "R?") (unit 1)
+          (reference "R17") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "power:GND") (at 78.105 151.765 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 114.935 158.115 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1e9c021c-45a7-4119-a91a-c550cb182249)
-    (property "Reference" "#PWR?" (at 78.105 158.115 0)
+    (property "Reference" "#PWR0170" (at 114.935 164.465 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 78.105 156.845 0)
+    (property "Value" "GND" (at 114.935 163.195 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 78.105 151.765 0)
+    (property "Footprint" "" (at 114.935 158.115 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 78.105 151.765 0)
+    (property "Datasheet" "" (at 114.935 158.115 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid c2b048a8-d091-4a64-b2d4-5e840d8ae9fc))
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0170") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "power:+3V3") (at 56.515 141.605 0) (unit 1)
+  (symbol (lib_id "power:+3V3") (at 72.39 147.955 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1f85090f-ca94-4e8d-a041-105d8c013e37)
-    (property "Reference" "#PWR?" (at 56.515 145.415 0)
+    (property "Reference" "#PWR0162" (at 72.39 151.765 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "+3V3" (at 56.515 137.795 0)
+    (property "Value" "+3V3" (at 72.39 144.145 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 56.515 141.605 0)
+    (property "Footprint" "" (at 72.39 147.955 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 56.515 141.605 0)
+    (property "Datasheet" "" (at 72.39 147.955 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid e3661935-f242-4808-a64e-3eed0193284a))
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0162") (unit 1)
         )
       )
     )
@@ -5461,7 +5477,7 @@
   (symbol (lib_id "power:GND") (at 129.54 273.05 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2045a570-2071-4699-915a-9177f56fe387)
-    (property "Reference" "#PWR?" (at 129.54 279.4 0)
+    (property "Reference" "#PWR0109" (at 129.54 279.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 129.54 278.13 0)
@@ -5477,7 +5493,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0109") (unit 1)
         )
       )
     )
@@ -5486,7 +5502,7 @@
   (symbol (lib_id "power:GND") (at 278.765 76.2 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2094d5a3-ea93-4f44-94f3-db448f597ee2)
-    (property "Reference" "#PWR?" (at 278.765 82.55 0)
+    (property "Reference" "#PWR0138" (at 278.765 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 278.765 81.28 0)
@@ -5502,7 +5518,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0138") (unit 1)
         )
       )
     )
@@ -5536,7 +5552,7 @@
   (symbol (lib_id "power:+3V3") (at 140.335 19.685 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 20eedd8a-6fb6-475e-adff-1cc588d5278a)
-    (property "Reference" "#PWR?" (at 140.335 23.495 0)
+    (property "Reference" "#PWR0155" (at 140.335 23.495 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 140.335 15.875 0)
@@ -5552,7 +5568,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0155") (unit 1)
         )
       )
     )
@@ -5561,7 +5577,7 @@
   (symbol (lib_id "WatchParts:EVA-M8Q-0") (at 252.095 48.26 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 21cdfb8b-79bd-47db-a737-7ac4d3cfc1bd)
-    (property "Reference" "U?" (at 252.095 45.72 0)
+    (property "Reference" "U2" (at 252.095 45.72 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "EVA-M8Q-0" (at 252.095 48.26 0)
@@ -5612,7 +5628,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "U?") (unit 1)
+          (reference "U2") (unit 1)
         )
       )
     )
@@ -5621,7 +5637,7 @@
   (symbol (lib_id "Device:C_Small") (at 155.575 37.465 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2368d3ef-5070-4a18-9a07-b3aaf101ac84)
-    (property "Reference" "C?" (at 158.115 36.8363 0)
+    (property "Reference" "C26" (at 158.115 36.8363 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1u" (at 158.115 39.3763 0)
@@ -5638,7 +5654,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "C?") (unit 1)
+          (reference "C26") (unit 1)
         )
       )
     )
@@ -5647,7 +5663,7 @@
   (symbol (lib_id "power:+3V3") (at 278.765 93.98 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 23b97a45-5ed2-48d9-9b03-ea8ec1f5f384)
-    (property "Reference" "#PWR?" (at 278.765 97.79 0)
+    (property "Reference" "#PWR0135" (at 278.765 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 278.765 90.17 0)
@@ -5663,7 +5679,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0135") (unit 1)
         )
       )
     )
@@ -5697,7 +5713,7 @@
   (symbol (lib_id "power:+3V3") (at 118.745 174.625 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2eff6ffb-b020-4a51-b2ba-63314a37b0c5)
-    (property "Reference" "#PWR?" (at 118.745 178.435 0)
+    (property "Reference" "#PWR0169" (at 118.745 178.435 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 118.745 170.815 0)
@@ -5713,32 +5729,32 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0169") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "power:GND") (at 70.485 151.765 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 107.315 158.115 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 30f3b343-2846-44db-a39c-6ffbdff57d7a)
-    (property "Reference" "#PWR?" (at 70.485 158.115 0)
+    (property "Reference" "#PWR0171" (at 107.315 164.465 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 70.485 156.845 0)
+    (property "Value" "GND" (at 107.315 163.195 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 70.485 151.765 0)
+    (property "Footprint" "" (at 107.315 158.115 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 70.485 151.765 0)
+    (property "Datasheet" "" (at 107.315 158.115 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid d06d0745-bd1e-42ac-9d95-f15704a0589f))
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0171") (unit 1)
         )
       )
     )
@@ -5747,7 +5763,7 @@
   (symbol (lib_id "WatchParts:EVQ-P4HB3B") (at 182.245 38.735 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 32a95df1-1fd8-4913-94d3-8d58e03447ca)
-    (property "Reference" "S?" (at 183.515 26.67 90)
+    (property "Reference" "S1" (at 183.515 26.67 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "EVQ-P4HB3B" (at 183.515 28.575 90)
@@ -5766,7 +5782,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "S?") (unit 1)
+          (reference "S1") (unit 1)
         )
       )
     )
@@ -5775,7 +5791,7 @@
   (symbol (lib_id "Device:L_Small") (at 23.495 36.195 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 35a7d5e3-6bcd-4d3a-ae8e-d4f99e299ba3)
-    (property "Reference" "L?" (at 24.13 35.56 0)
+    (property "Reference" "L1" (at 24.13 35.56 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "DNF" (at 24.13 38.1 0)
@@ -5792,7 +5808,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "L?") (unit 1)
+          (reference "L1") (unit 1)
         )
       )
     )
@@ -5801,7 +5817,7 @@
   (symbol (lib_id "WatchParts:EVQ-P4HB3B") (at 146.685 148.59 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 36115d7a-8286-4e53-9975-f4a88a2a625c)
-    (property "Reference" "S?" (at 147.955 136.525 90)
+    (property "Reference" "S4" (at 147.955 136.525 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "EVQ-P4HB3B" (at 147.955 138.43 90)
@@ -5820,7 +5836,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "S?") (unit 1)
+          (reference "S4") (unit 1)
         )
       )
     )
@@ -5829,13 +5845,13 @@
   (symbol (lib_id "Device:C_Small") (at 95.25 267.97 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 37cefb4e-4205-474d-ae2a-24b017df0b28)
-    (property "Reference" "C?" (at 97.79 267.3413 0)
+    (property "Reference" "C2" (at 97.79 267.3413 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "22u" (at 97.79 269.8813 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (at 95.25 267.97 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 95.25 267.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 95.25 267.97 0)
@@ -5846,7 +5862,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "C?") (unit 1)
+          (reference "C2") (unit 1)
         )
       )
     )
@@ -5855,7 +5871,7 @@
   (symbol (lib_id "power:GND") (at 62.23 129.54 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3844ab91-513d-4f5e-bf04-88ad2a450307)
-    (property "Reference" "#PWR?" (at 62.23 135.89 0)
+    (property "Reference" "#PWR0153" (at 62.23 135.89 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 62.23 134.62 0)
@@ -5871,7 +5887,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0153") (unit 1)
         )
       )
     )
@@ -5880,7 +5896,7 @@
   (symbol (lib_id "power:GND") (at 81.915 229.87 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3973ea61-9f8d-4e3d-87f3-6c30945b7572)
-    (property "Reference" "#PWR?" (at 81.915 236.22 0)
+    (property "Reference" "#PWR0117" (at 81.915 236.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 81.915 234.315 0)
@@ -5896,7 +5912,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0117") (unit 1)
         )
       )
     )
@@ -5905,7 +5921,7 @@
   (symbol (lib_id "power:GND") (at 310.515 50.8 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3b046d31-da30-4985-8406-b1abdd0ecd9a)
-    (property "Reference" "#PWR?" (at 310.515 57.15 0)
+    (property "Reference" "#PWR0143" (at 310.515 57.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 310.515 55.88 0)
@@ -5921,7 +5937,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0143") (unit 1)
         )
       )
     )
@@ -5930,7 +5946,7 @@
   (symbol (lib_id "power:GND") (at 142.875 194.31 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3ca85be2-7cfc-4e46-a847-fdb200330c6a)
-    (property "Reference" "#PWR?" (at 142.875 200.66 0)
+    (property "Reference" "#PWR0166" (at 142.875 200.66 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 139.065 196.215 0)
@@ -5946,7 +5962,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0166") (unit 1)
         )
       )
     )
@@ -5955,7 +5971,7 @@
   (symbol (lib_id "power:GND") (at 82.55 270.51 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3cae5ea6-b51c-4f76-992d-609a8eed81a7)
-    (property "Reference" "#PWR?" (at 82.55 276.86 0)
+    (property "Reference" "#PWR0116" (at 82.55 276.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 82.55 275.59 0)
@@ -5971,7 +5987,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0116") (unit 1)
         )
       )
     )
@@ -5980,7 +5996,7 @@
   (symbol (lib_id "Device:R_Small") (at 41.91 196.85 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3cbdf8a7-596b-47d9-a35a-d933e523fafa)
-    (property "Reference" "R?" (at 39.37 196.215 0)
+    (property "Reference" "R22" (at 39.37 196.215 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "10m" (at 39.37 198.755 0)
@@ -5997,7 +6013,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "R?") (unit 1)
+          (reference "R22") (unit 1)
         )
       )
     )
@@ -6006,7 +6022,7 @@
   (symbol (lib_id "Device:C_Small") (at 43.815 55.245 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3d3f2792-8fec-4b2a-ab13-0946410872e6)
-    (property "Reference" "C?" (at 43.8086 50.165 90)
+    (property "Reference" "C38" (at 43.8086 50.165 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "18p" (at 43.8086 52.705 90)
@@ -6023,7 +6039,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "C?") (unit 1)
+          (reference "C38") (unit 1)
         )
       )
     )
@@ -6032,13 +6048,13 @@
   (symbol (lib_id "Device:C_Small") (at 33.655 219.71 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3e16f118-78f6-4b7c-86db-58e11f79f01b)
-    (property "Reference" "C?" (at 31.115 219.0813 0)
+    (property "Reference" "C13" (at 31.115 219.0813 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1u" (at 31.115 221.6213 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 33.655 219.71 0)
+    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 33.655 219.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 33.655 219.71 0)
@@ -6049,7 +6065,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "C?") (unit 1)
+          (reference "C13") (unit 1)
         )
       )
     )
@@ -6058,7 +6074,7 @@
   (symbol (lib_id "Sensor:BME280") (at 278.765 113.03 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3efb5ba0-92a9-491e-8cd2-07585deec184)
-    (property "Reference" "U?" (at 271.145 101.6 0)
+    (property "Reference" "U3" (at 271.145 101.6 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "BME280" (at 282.575 113.03 0)
@@ -6081,32 +6097,32 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "U?") (unit 1)
+          (reference "U3") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "power:+3V3") (at 18.415 141.605 0) (unit 1)
+  (symbol (lib_id "power:+3V3") (at 61.595 147.955 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 3ff1b598-1820-4c9b-82ce-e231029e29a6)
-    (property "Reference" "#PWR?" (at 18.415 145.415 0)
+    (property "Reference" "#PWR0163" (at 61.595 151.765 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "+3V3" (at 18.415 137.795 0)
+    (property "Value" "+3V3" (at 61.595 144.145 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 18.415 141.605 0)
+    (property "Footprint" "" (at 61.595 147.955 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 18.415 141.605 0)
+    (property "Datasheet" "" (at 61.595 147.955 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid fd16c756-fa69-4b69-8049-109fc53c102c))
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0163") (unit 1)
         )
       )
     )
@@ -6115,7 +6131,7 @@
   (symbol (lib_id "Device:C_Small") (at 104.14 267.97 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4140b4a2-2553-4c78-9e9d-ff730672e483)
-    (property "Reference" "C?" (at 106.68 267.3413 0)
+    (property "Reference" "C24" (at 106.68 267.3413 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1u" (at 106.68 269.8813 0)
@@ -6132,7 +6148,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "C?") (unit 1)
+          (reference "C24") (unit 1)
         )
       )
     )
@@ -6141,7 +6157,7 @@
   (symbol (lib_id "Device:R_Small") (at 163.83 116.586 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 41aa2c6b-8ced-4ce7-815e-12f430e5c10f)
-    (property "Reference" "R?" (at 165.608 115.951 0)
+    (property "Reference" "R19" (at 165.608 115.951 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "2.2k" (at 165.608 118.491 0)
@@ -6158,7 +6174,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "R?") (unit 1)
+          (reference "R19") (unit 1)
         )
       )
     )
@@ -6167,7 +6183,7 @@
   (symbol (lib_id "WatchParts:ESP32-S3R8") (at 107.315 70.485 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 43431c42-03c9-45ab-9efd-d4db08f2ea50)
-    (property "Reference" "U?" (at 107.315 17.78 0)
+    (property "Reference" "U1" (at 107.315 17.78 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "ESP32-S3R8" (at 107.315 20.32 0)
@@ -6239,7 +6255,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "U?") (unit 1)
+          (reference "U1") (unit 1)
         )
       )
     )
@@ -6248,7 +6264,7 @@
   (symbol (lib_id "Device:L_Small") (at 129.54 241.3 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 43f7934c-e870-4850-beb9-821f5784487d)
-    (property "Reference" "L?" (at 129.54 240.03 90)
+    (property "Reference" "L4" (at 129.54 240.03 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1u" (at 129.54 242.57 90)
@@ -6265,7 +6281,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "L?") (unit 1)
+          (reference "L4") (unit 1)
         )
       )
     )
@@ -6274,7 +6290,7 @@
   (symbol (lib_id "power:+3V3") (at 291.465 66.675 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4440d55c-3a16-4d62-a937-7dd88d7005e2)
-    (property "Reference" "#PWR?" (at 291.465 70.485 0)
+    (property "Reference" "#PWR0141" (at 291.465 70.485 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 291.465 62.865 0)
@@ -6290,32 +6306,32 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0141") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "power:GND") (at 42.545 151.765 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 95.25 158.115 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 465bd8c2-3170-4786-bd2e-ceba4e1d33e9)
-    (property "Reference" "#PWR?" (at 42.545 158.115 0)
+    (property "Reference" "#PWR0172" (at 95.25 164.465 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 42.545 156.845 0)
+    (property "Value" "GND" (at 95.25 163.195 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 42.545 151.765 0)
+    (property "Footprint" "" (at 95.25 158.115 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 42.545 151.765 0)
+    (property "Datasheet" "" (at 95.25 158.115 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 559fcc1a-8a7d-4d2b-918d-cade955c7d59))
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0172") (unit 1)
         )
       )
     )
@@ -6324,7 +6340,7 @@
   (symbol (lib_id "power:GND") (at 38.735 71.755 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 46a704ac-1239-42fc-b2b8-8583f29ce793)
-    (property "Reference" "#PWR?" (at 38.735 78.105 0)
+    (property "Reference" "#PWR0146" (at 38.735 78.105 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 38.735 76.835 0)
@@ -6340,7 +6356,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0146") (unit 1)
         )
       )
     )
@@ -6349,7 +6365,7 @@
   (symbol (lib_id "Regulator_Switching:AP3012") (at 48.26 257.81 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 48fbea00-b3a0-4e0d-b8b5-95e73c82b66f)
-    (property "Reference" "U?" (at 54.61 264.16 0)
+    (property "Reference" "U8" (at 54.61 264.16 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "AP3012" (at 48.26 256.54 0)
@@ -6369,7 +6385,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "U?") (unit 1)
+          (reference "U8") (unit 1)
         )
       )
     )
@@ -6378,7 +6394,7 @@
   (symbol (lib_id "WatchParts:XRCGB40M000F1S1DR0") (at 51.435 51.435 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 49cc242a-8ed4-4dcf-83da-a49230955c3b)
-    (property "Reference" "Y?" (at 54.61 50.8 90)
+    (property "Reference" "Y1" (at 54.61 50.8 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "40MHz" (at 54.61 53.34 90)
@@ -6397,7 +6413,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "Y?") (unit 1)
+          (reference "Y1") (unit 1)
         )
       )
     )
@@ -6406,7 +6422,7 @@
   (symbol (lib_id "power:GND") (at 121.285 229.87 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4d49f7cf-14ed-4145-a475-d50639a8f2e8)
-    (property "Reference" "#PWR?" (at 121.285 236.22 0)
+    (property "Reference" "#PWR0115" (at 121.285 236.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 121.285 234.315 0)
@@ -6422,25 +6438,25 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0115") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "Device:C_Small") (at 92.075 146.685 0) (unit 1)
+  (symbol (lib_id "Device:C_Small") (at 18.415 146.05 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4efa8693-ba32-4d57-8150-835e5ff69c1c)
-    (property "Reference" "C?" (at 94.615 146.0563 0)
+    (property "Reference" "C20" (at 20.955 145.4213 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "0.1u" (at 94.615 148.5963 0)
+    (property "Value" "0.1u" (at 20.955 147.9613 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 92.075 146.685 0)
+    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 18.415 146.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 92.075 146.685 0)
+    (property "Datasheet" "~" (at 18.415 146.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid b8f439d2-4e7a-466a-aa7c-87b1367dbc4d))
@@ -6448,7 +6464,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "C?") (unit 1)
+          (reference "C20") (unit 1)
         )
       )
     )
@@ -6457,7 +6473,7 @@
   (symbol (lib_id "Device:Crystal_Small") (at 207.645 41.91 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 51fc0a87-a7e3-4f38-9ee9-f27543085343)
-    (property "Reference" "Y?" (at 205.105 34.29 90)
+    (property "Reference" "Y3" (at 205.105 34.29 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "32.768kHz" (at 205.105 36.83 90)
@@ -6474,7 +6490,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "Y?") (unit 1)
+          (reference "Y3") (unit 1)
         )
       )
     )
@@ -6483,7 +6499,7 @@
   (symbol (lib_id "power:GND") (at 48.26 267.97 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 52ee2f41-5c42-4df0-9496-874d8fbb244b)
-    (property "Reference" "#PWR?" (at 48.26 274.32 0)
+    (property "Reference" "#PWR0180" (at 48.26 274.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 48.26 273.05 0)
@@ -6499,7 +6515,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0180") (unit 1)
         )
       )
     )
@@ -6508,7 +6524,7 @@
   (symbol (lib_id "power:GND") (at 25.4 267.97 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5468bed6-bd2a-4330-875e-60a52727a59c)
-    (property "Reference" "#PWR?" (at 25.4 274.32 0)
+    (property "Reference" "#PWR0175" (at 25.4 274.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 25.4 273.05 0)
@@ -6524,7 +6540,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0175") (unit 1)
         )
       )
     )
@@ -6533,7 +6549,7 @@
   (symbol (lib_id "Device:R_Small") (at 146.685 134.62 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5558fe67-d0bc-4d59-9935-80f9e21eb95a)
-    (property "Reference" "R?" (at 142.875 133.35 0)
+    (property "Reference" "R9" (at 142.875 133.35 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "100k" (at 140.97 135.255 0)
@@ -6550,7 +6566,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "R?") (unit 1)
+          (reference "R9") (unit 1)
         )
       )
     )
@@ -6559,13 +6575,13 @@
   (symbol (lib_id "Device:C_Small") (at 106.045 191.135 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 57910da6-e9f0-4971-87d6-30f022747ae9)
-    (property "Reference" "C?" (at 103.505 190.5063 0)
+    (property "Reference" "C17" (at 103.505 190.5063 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1u" (at 103.505 193.0463 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 106.045 191.135 0)
+    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 106.045 191.135 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 106.045 191.135 0)
@@ -6576,7 +6592,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "C?") (unit 1)
+          (reference "C17") (unit 1)
         )
       )
     )
@@ -6585,7 +6601,7 @@
   (symbol (lib_id "Device:R_Small") (at 342.265 106.68 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 57d6dde1-868d-4c43-be6f-f4eb2ad95d21)
-    (property "Reference" "R?" (at 337.185 104.775 0)
+    (property "Reference" "R20" (at 337.185 104.775 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "5.1k" (at 337.185 106.68 0)
@@ -6602,7 +6618,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "R?") (unit 1)
+          (reference "R20") (unit 1)
         )
       )
     )
@@ -6611,13 +6627,13 @@
   (symbol (lib_id "Connector_Generic:Conn_02x03_Odd_Even") (at 67.945 125.095 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 58f8dfed-5cea-4f1a-a371-0182c22a058a)
-    (property "Reference" "J?" (at 69.215 116.84 0)
+    (property "Reference" "J3" (at 69.215 116.84 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "UART0" (at 69.215 119.38 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 67.945 125.095 0)
+    (property "Footprint" "Connector:Tag-Connect_TC2030-IDC-NL_2x03_P1.27mm_Vertical" (at 67.945 125.095 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 67.945 125.095 0)
@@ -6632,7 +6648,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "J?") (unit 1)
+          (reference "J3") (unit 1)
         )
       )
     )
@@ -6641,7 +6657,7 @@
   (symbol (lib_id "power:GND") (at 73.66 270.51 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5bc02283-bcc5-471e-954e-2ed8736c4ff4)
-    (property "Reference" "#PWR?" (at 73.66 276.86 0)
+    (property "Reference" "#PWR0178" (at 73.66 276.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 73.66 275.59 0)
@@ -6657,32 +6673,32 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0178") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "power:+3V3") (at 42.545 141.605 0) (unit 1)
+  (symbol (lib_id "power:+3V3") (at 95.25 147.955 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5c1b0e1f-e818-4afd-a772-a74a657a13b4)
-    (property "Reference" "#PWR?" (at 42.545 145.415 0)
+    (property "Reference" "#PWR0158" (at 95.25 151.765 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "+3V3" (at 42.545 137.795 0)
+    (property "Value" "+3V3" (at 95.25 144.145 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 42.545 141.605 0)
+    (property "Footprint" "" (at 95.25 147.955 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 42.545 141.605 0)
+    (property "Datasheet" "" (at 95.25 147.955 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 953e2002-0cf6-427e-b325-abcce1a2cdc3))
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0158") (unit 1)
         )
       )
     )
@@ -6691,7 +6707,7 @@
   (symbol (lib_id "Device:R_Small") (at 182.245 64.135 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5e0a296c-d9a7-4737-b63d-e46799ac3150)
-    (property "Reference" "R?" (at 178.435 62.865 0)
+    (property "Reference" "R12" (at 178.435 62.865 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "100k" (at 176.53 64.77 0)
@@ -6708,7 +6724,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "R?") (unit 1)
+          (reference "R12") (unit 1)
         )
       )
     )
@@ -6717,7 +6733,7 @@
   (symbol (lib_id "power:GND") (at 18.415 108.585 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5e39519b-65c5-45d8-bdcf-3fd56bfcb79a)
-    (property "Reference" "#PWR?" (at 18.415 114.935 0)
+    (property "Reference" "#PWR0151" (at 18.415 114.935 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 18.415 113.665 0)
@@ -6733,57 +6749,57 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0151") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "power:GND") (at 104.775 159.385 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 31.115 158.75 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 5fb0df71-2283-418f-8ac2-8b30559dc15d)
-    (property "Reference" "#PWR?" (at 104.775 165.735 0)
+    (property "Reference" "#PWR0181" (at 31.115 165.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 104.775 164.465 0)
+    (property "Value" "GND" (at 31.115 163.83 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 104.775 159.385 0)
+    (property "Footprint" "" (at 31.115 158.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 104.775 159.385 0)
+    (property "Datasheet" "" (at 31.115 158.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 11458d71-ee68-4285-af7d-e14e1ab5322d))
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0181") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "power:+3V3") (at 92.075 141.605 0) (unit 1)
+  (symbol (lib_id "power:+3V3") (at 18.415 140.97 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 601956d6-33a6-49b9-9f38-68057220039c)
-    (property "Reference" "#PWR?" (at 92.075 145.415 0)
+    (property "Reference" "#PWR0161" (at 18.415 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "+3V3" (at 92.075 137.795 0)
+    (property "Value" "+3V3" (at 18.415 137.16 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 92.075 141.605 0)
+    (property "Footprint" "" (at 18.415 140.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 92.075 141.605 0)
+    (property "Datasheet" "" (at 18.415 140.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 433dc000-44fc-4be0-978d-4d9fe8734c39))
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0161") (unit 1)
         )
       )
     )
@@ -6817,7 +6833,7 @@
   (symbol (lib_id "Device:R_Small") (at 133.985 226.695 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 62d7c3b5-8162-4127-ac44-de73957f7bf2)
-    (property "Reference" "R?" (at 131.445 226.06 0)
+    (property "Reference" "R29" (at 131.445 226.06 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "6.2k" (at 131.445 228.6 0)
@@ -6834,7 +6850,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "R?") (unit 1)
+          (reference "R29") (unit 1)
         )
       )
     )
@@ -6843,7 +6859,7 @@
   (symbol (lib_id "Device:L_Small") (at 344.805 38.1 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 63c9ff6b-11e6-44ae-a17d-30335c5a0f26)
-    (property "Reference" "L?" (at 344.805 34.29 90)
+    (property "Reference" "L6" (at 344.805 34.29 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "9.1n" (at 344.805 36.83 90)
@@ -6860,7 +6876,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "L?") (unit 1)
+          (reference "L6") (unit 1)
         )
       )
     )
@@ -6869,13 +6885,13 @@
   (symbol (lib_id "Device:C_Small") (at 41.275 219.71 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 651bbddd-fe99-4344-8dab-038af7a48f06)
-    (property "Reference" "C?" (at 38.735 219.0813 0)
+    (property "Reference" "C14" (at 38.735 219.0813 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1u" (at 38.735 221.6213 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 41.275 219.71 0)
+    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 41.275 219.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 41.275 219.71 0)
@@ -6886,7 +6902,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "C?") (unit 1)
+          (reference "C14") (unit 1)
         )
       )
     )
@@ -6895,7 +6911,7 @@
   (symbol (lib_id "Device:C_Small") (at 165.735 37.465 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 65c7fe08-768b-4151-b413-2e08b0e92962)
-    (property "Reference" "C?" (at 168.275 36.8363 0)
+    (property "Reference" "C27" (at 168.275 36.8363 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1u" (at 168.275 39.3763 0)
@@ -6912,7 +6928,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "C?") (unit 1)
+          (reference "C27") (unit 1)
         )
       )
     )
@@ -6921,7 +6937,7 @@
   (symbol (lib_id "Device:R_Small") (at 137.16 38.735 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 67a34f58-059d-4896-80d0-01be3fa2b166)
-    (property "Reference" "R?" (at 133.35 37.465 0)
+    (property "Reference" "R6" (at 133.35 37.465 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "100k" (at 131.445 39.37 0)
@@ -6938,7 +6954,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "R?") (unit 1)
+          (reference "R6") (unit 1)
         )
       )
     )
@@ -6947,7 +6963,7 @@
   (symbol (lib_id "Device:R_Small") (at 56.515 47.625 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6814fa07-8e4e-4938-9e43-b203c00982b5)
-    (property "Reference" "R?" (at 56.515 42.545 90)
+    (property "Reference" "R24" (at 56.515 42.545 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "20nH" (at 56.515 45.085 90)
@@ -6964,25 +6980,25 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "R?") (unit 1)
+          (reference "R24") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "Device:C_Small") (at 42.545 146.685 0) (unit 1)
+  (symbol (lib_id "Device:C_Small") (at 95.25 153.035 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 682885b1-1b92-4118-bb9c-38e94e449af2)
-    (property "Reference" "C?" (at 45.085 146.0563 0)
+    (property "Reference" "C16" (at 97.79 152.4063 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "1u" (at 45.085 148.5963 0)
+    (property "Value" "1u" (at 97.79 154.9463 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 42.545 146.685 0)
+    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 95.25 153.035 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 42.545 146.685 0)
+    (property "Datasheet" "~" (at 95.25 153.035 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 66891937-cd37-473b-9763-d1a9cc19a476))
@@ -6990,7 +7006,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "C?") (unit 1)
+          (reference "C16") (unit 1)
         )
       )
     )
@@ -6999,7 +7015,7 @@
   (symbol (lib_id "power:GND") (at 113.665 229.87 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6e13328c-fe9b-4833-81f2-6c5915250520)
-    (property "Reference" "#PWR?" (at 113.665 236.22 0)
+    (property "Reference" "#PWR0113" (at 113.665 236.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 113.665 234.315 0)
@@ -7015,32 +7031,32 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0113") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "power:GND") (at 56.515 151.765 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 72.39 158.115 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6e52b256-c192-4e33-9135-2b5fc913962d)
-    (property "Reference" "#PWR?" (at 56.515 158.115 0)
+    (property "Reference" "#PWR0184" (at 72.39 164.465 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 56.515 156.845 0)
+    (property "Value" "GND" (at 72.39 163.195 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 56.515 151.765 0)
+    (property "Footprint" "" (at 72.39 158.115 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 56.515 151.765 0)
+    (property "Datasheet" "" (at 72.39 158.115 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 88ec7998-111e-4e48-919c-09516f183069))
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0184") (unit 1)
         )
       )
     )
@@ -7049,7 +7065,7 @@
   (symbol (lib_id "power:GND") (at 26.035 108.585 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 71684bfb-7757-4ad5-9c6a-91880256f822)
-    (property "Reference" "#PWR?" (at 26.035 114.935 0)
+    (property "Reference" "#PWR0149" (at 26.035 114.935 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 26.035 113.665 0)
@@ -7065,7 +7081,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0149") (unit 1)
         )
       )
     )
@@ -7074,7 +7090,7 @@
   (symbol (lib_id "power:GND") (at 298.45 76.835 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 71b971f3-70e0-4547-8676-7bc382473d8a)
-    (property "Reference" "#PWR?" (at 298.45 83.185 0)
+    (property "Reference" "#PWR0139" (at 298.45 83.185 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 298.45 81.915 0)
@@ -7090,7 +7106,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0139") (unit 1)
         )
       )
     )
@@ -7099,7 +7115,7 @@
   (symbol (lib_id "power:GND") (at 106.68 229.87 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 723b01a0-65f3-4834-b629-37663221ea2d)
-    (property "Reference" "#PWR?" (at 106.68 236.22 0)
+    (property "Reference" "#PWR0114" (at 106.68 236.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 106.68 234.315 0)
@@ -7115,7 +7131,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0114") (unit 1)
         )
       )
     )
@@ -7124,7 +7140,7 @@
   (symbol (lib_id "Device:R_Small") (at 81.915 222.25 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7380eec3-4312-4f91-89bb-344cdc8ebf9d)
-    (property "Reference" "R?" (at 79.375 221.615 0)
+    (property "Reference" "R16" (at 79.375 221.615 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "10k" (at 79.375 224.155 0)
@@ -7141,7 +7157,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "R?") (unit 1)
+          (reference "R16") (unit 1)
         )
       )
     )
@@ -7150,7 +7166,7 @@
   (symbol (lib_id "Device:R_Small") (at 146.685 207.01 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 73b7b8b1-23cd-4dd5-ab9e-67b7d8298e09)
-    (property "Reference" "R?" (at 144.145 203.835 0)
+    (property "Reference" "R10" (at 144.145 203.835 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100k" (at 144.78 212.725 90)
@@ -7167,7 +7183,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "R?") (unit 1)
+          (reference "R10") (unit 1)
         )
       )
     )
@@ -7176,7 +7192,7 @@
   (symbol (lib_id "Device:C_Small") (at 23.495 43.18 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7592f75c-a8a3-482d-91d6-4171dd5d6a4d)
-    (property "Reference" "C?" (at 26.67 42.5513 0)
+    (property "Reference" "C41" (at 26.67 42.5513 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "DNF" (at 26.67 45.0913 0)
@@ -7193,7 +7209,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "C?") (unit 1)
+          (reference "C41") (unit 1)
         )
       )
     )
@@ -7202,7 +7218,7 @@
   (symbol (lib_id "WatchParts:+SYS") (at 17.78 248.92 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 77455a63-807f-45e7-9249-cd5763a62110)
-    (property "Reference" "#PWR?" (at 17.78 252.73 0)
+    (property "Reference" "#PWR0176" (at 17.78 252.73 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+SYS" (at 17.78 245.11 0)
@@ -7218,7 +7234,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0176") (unit 1)
         )
       )
     )
@@ -7227,7 +7243,7 @@
   (symbol (lib_id "power:GND") (at 227.965 156.845 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 775900dd-92c6-4aaa-9369-973998e595ee)
-    (property "Reference" "#PWR?" (at 227.965 163.195 0)
+    (property "Reference" "#PWR0144" (at 227.965 163.195 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 227.965 161.925 0)
@@ -7243,7 +7259,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0144") (unit 1)
         )
       )
     )
@@ -7252,7 +7268,7 @@
   (symbol (lib_id "power:GND") (at 351.155 55.88 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 79030f7f-2e05-4e06-b0e4-1423c9df14a9)
-    (property "Reference" "#PWR?" (at 351.155 62.23 0)
+    (property "Reference" "#PWR0126" (at 351.155 62.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 351.155 60.96 0)
@@ -7268,7 +7284,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0126") (unit 1)
         )
       )
     )
@@ -7277,7 +7293,7 @@
   (symbol (lib_id "power:GND") (at 135.255 118.745 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7ad22037-b71b-43d4-ad28-7980835d638c)
-    (property "Reference" "#PWR?" (at 135.255 125.095 0)
+    (property "Reference" "#PWR0164" (at 135.255 125.095 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 135.255 123.825 0)
@@ -7293,7 +7309,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0164") (unit 1)
         )
       )
     )
@@ -7302,7 +7318,7 @@
   (symbol (lib_id "power:GND") (at 99.06 229.87 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7b791eb9-db8a-4190-b5fe-40b1742546e5)
-    (property "Reference" "#PWR?" (at 99.06 236.22 0)
+    (property "Reference" "#PWR0112" (at 99.06 236.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 99.06 234.315 0)
@@ -7318,7 +7334,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0112") (unit 1)
         )
       )
     )
@@ -7327,13 +7343,13 @@
   (symbol (lib_id "Device:C_Small") (at 142.875 191.77 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7bf10fd7-4021-4a20-8b68-82a306ae5028)
-    (property "Reference" "C?" (at 140.335 191.1413 0)
+    (property "Reference" "C6" (at 140.335 191.1413 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10u" (at 140.335 193.6813 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (at 142.875 191.77 0)
+    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 142.875 191.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 142.875 191.77 0)
@@ -7344,7 +7360,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "C?") (unit 1)
+          (reference "C6") (unit 1)
         )
       )
     )
@@ -7353,7 +7369,7 @@
   (symbol (lib_id "Device:R_Small") (at 121.285 226.695 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7fc52541-40e9-46d1-8760-b0d53dc8e17a)
-    (property "Reference" "R?" (at 118.745 226.06 0)
+    (property "Reference" "R28" (at 118.745 226.06 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1.6k" (at 118.745 228.6 0)
@@ -7370,7 +7386,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "R?") (unit 1)
+          (reference "R28") (unit 1)
         )
       )
     )
@@ -7379,7 +7395,7 @@
   (symbol (lib_id "WatchParts:BQ27441DRZR-G1A") (at 60.325 208.28 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 80a089e0-6050-46e0-bed9-27c7fe5ae1c5)
-    (property "Reference" "U?" (at 60.325 204.47 0)
+    (property "Reference" "U5" (at 60.325 204.47 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "BQ27441-G1A" (at 60.325 211.455 0)
@@ -7407,7 +7423,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "U?") (unit 1)
+          (reference "U5") (unit 1)
         )
       )
     )
@@ -7416,7 +7432,7 @@
   (symbol (lib_id "power:GND") (at 18.415 31.75 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 831d8658-161f-4e16-84ea-54fb6e6958b5)
-    (property "Reference" "#PWR?" (at 18.415 38.1 0)
+    (property "Reference" "#PWR0160" (at 18.415 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 18.415 36.83 0)
@@ -7432,7 +7448,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0160") (unit 1)
         )
       )
     )
@@ -7466,7 +7482,7 @@
   (symbol (lib_id "Device:C_Small") (at 307.975 38.1 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 83c71049-a0c5-4189-bde5-ab4b3191a40f)
-    (property "Reference" "C?" (at 307.9813 33.02 90)
+    (property "Reference" "C44" (at 307.9813 33.02 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "2p" (at 307.9813 35.56 90)
@@ -7483,7 +7499,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "C?") (unit 1)
+          (reference "C44") (unit 1)
         )
       )
     )
@@ -7492,7 +7508,7 @@
   (symbol (lib_id "power:+3V3") (at 253.365 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 83cfa367-8df5-4580-8043-e5a3332c9eb5)
-    (property "Reference" "#PWR?" (at 253.365 111.76 0)
+    (property "Reference" "#PWR0134" (at 253.365 111.76 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 253.365 104.14 0)
@@ -7508,25 +7524,25 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0134") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "Device:C_Small") (at 56.515 146.685 0) (unit 1)
+  (symbol (lib_id "Device:C_Small") (at 72.39 153.035 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8510b8c4-fac0-4d0b-9c13-0e316235af93)
-    (property "Reference" "C?" (at 59.055 146.0563 0)
+    (property "Reference" "C23" (at 74.93 152.4063 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "0.1u" (at 59.055 148.5963 0)
+    (property "Value" "0.1u" (at 74.93 154.9463 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 56.515 146.685 0)
+    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 72.39 153.035 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 56.515 146.685 0)
+    (property "Datasheet" "~" (at 72.39 153.035 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid f8406e05-fe7f-49bf-9f6e-0a01614dfbc2))
@@ -7534,7 +7550,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "C?") (unit 1)
+          (reference "C23") (unit 1)
         )
       )
     )
@@ -7543,7 +7559,7 @@
   (symbol (lib_id "WatchParts:+SYS") (at 142.875 183.515 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 857bb0f1-5e2b-4cd8-a292-abefff35ab61)
-    (property "Reference" "#PWR?" (at 142.875 187.325 0)
+    (property "Reference" "#PWR0167" (at 142.875 187.325 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+SYS" (at 142.875 179.705 0)
@@ -7559,7 +7575,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0167") (unit 1)
         )
       )
     )
@@ -7568,7 +7584,7 @@
   (symbol (lib_id "power:GND") (at 106.045 196.85 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 85a84498-5105-43b4-97d4-9735d0775afb)
-    (property "Reference" "#PWR?" (at 106.045 203.2 0)
+    (property "Reference" "#PWR0165" (at 106.045 203.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 106.045 201.93 0)
@@ -7584,7 +7600,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0165") (unit 1)
         )
       )
     )
@@ -7593,7 +7609,7 @@
   (symbol (lib_id "power:GND") (at 182.245 48.895 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 85fec051-c51b-477c-af3b-e020c857b360)
-    (property "Reference" "#PWR?" (at 182.245 55.245 0)
+    (property "Reference" "#PWR0119" (at 182.245 55.245 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 182.245 53.975 0)
@@ -7609,7 +7625,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0119") (unit 1)
         )
       )
     )
@@ -7618,7 +7634,7 @@
   (symbol (lib_id "WatchParts:TPS631000DRLR") (at 129.54 250.19 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8702e651-38d9-48e6-bbca-777879204861)
-    (property "Reference" "U?" (at 104.14 248.92 0)
+    (property "Reference" "U7" (at 104.14 248.92 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TPS631000DRLR" (at 104.14 246.38 0)
@@ -7641,7 +7657,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "U?") (unit 1)
+          (reference "U7") (unit 1)
         )
       )
     )
@@ -7650,7 +7666,7 @@
   (symbol (lib_id "Device:C_Small") (at 29.21 36.195 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 877c113d-e4a7-402e-96dc-b525b909658b)
-    (property "Reference" "C?" (at 31.75 35.5663 0)
+    (property "Reference" "C42" (at 31.75 35.5663 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "3.9p" (at 31.75 38.1063 0)
@@ -7667,32 +7683,32 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "C?") (unit 1)
+          (reference "C42") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "power:GND") (at 33.655 151.765 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 86.36 158.115 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8823c8dd-d5dc-4c8b-b2d8-562052533d58)
-    (property "Reference" "#PWR?" (at 33.655 158.115 0)
+    (property "Reference" "#PWR0185" (at 86.36 164.465 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 33.655 156.845 0)
+    (property "Value" "GND" (at 86.36 163.195 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 33.655 151.765 0)
+    (property "Footprint" "" (at 86.36 158.115 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 33.655 151.765 0)
+    (property "Datasheet" "" (at 86.36 158.115 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 0d677c04-6735-4d21-94e0-5b15faa03fc1))
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0185") (unit 1)
         )
       )
     )
@@ -7701,7 +7717,7 @@
   (symbol (lib_id "power:GND") (at 151.13 273.05 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 88261d1e-d68e-4160-aaec-d086a1e51038)
-    (property "Reference" "#PWR?" (at 151.13 279.4 0)
+    (property "Reference" "#PWR0104" (at 151.13 279.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 151.13 278.13 0)
@@ -7717,7 +7733,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0104") (unit 1)
         )
       )
     )
@@ -7726,13 +7742,13 @@
   (symbol (lib_id "Device:C_Small") (at 25.4 260.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8a339c78-4d27-4491-af8b-d0d134b433c4)
-    (property "Reference" "C?" (at 27.94 259.7213 0)
+    (property "Reference" "C12" (at 27.94 259.7213 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1u" (at 27.94 262.2613 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 25.4 260.35 0)
+    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 25.4 260.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 25.4 260.35 0)
@@ -7743,7 +7759,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "C?") (unit 1)
+          (reference "C12") (unit 1)
         )
       )
     )
@@ -7752,7 +7768,7 @@
   (symbol (lib_id "Device:R_Small") (at 73.66 265.43 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8ae8545a-cd7a-4b69-a33d-97ddc1b16900)
-    (property "Reference" "R?" (at 76.2 265.43 0)
+    (property "Reference" "R25" (at 76.2 265.43 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "9.1k" (at 76.2 267.97 0)
@@ -7769,7 +7785,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "R?") (unit 1)
+          (reference "R25") (unit 1)
         )
       )
     )
@@ -7778,7 +7794,7 @@
   (symbol (lib_id "Device:C_Small") (at 260.985 113.03 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8b3f2cbc-03cd-4c15-ac56-3f4707a62b16)
-    (property "Reference" "C?" (at 263.525 112.4013 0)
+    (property "Reference" "C29" (at 263.525 112.4013 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1u" (at 263.525 114.9413 0)
@@ -7795,7 +7811,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "C?") (unit 1)
+          (reference "C29") (unit 1)
         )
       )
     )
@@ -7804,7 +7820,7 @@
   (symbol (lib_id "power:GND") (at 17.78 267.97 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8b92b77d-c0de-4825-a311-21df311a1b6d)
-    (property "Reference" "#PWR?" (at 17.78 274.32 0)
+    (property "Reference" "#PWR0177" (at 17.78 274.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 17.78 273.05 0)
@@ -7820,7 +7836,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0177") (unit 1)
         )
       )
     )
@@ -7829,7 +7845,7 @@
   (symbol (lib_id "power:GND") (at 133.985 229.87 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8caa1e40-29de-49b2-a39e-f05168dc68b1)
-    (property "Reference" "#PWR?" (at 133.985 236.22 0)
+    (property "Reference" "#PWR0108" (at 133.985 236.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 133.985 234.315 0)
@@ -7845,7 +7861,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0108") (unit 1)
         )
       )
     )
@@ -7854,7 +7870,7 @@
   (symbol (lib_id "Device:R_Small") (at 140.335 38.735 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8d92b438-8275-4031-bb7b-d29e2258ff6a)
-    (property "Reference" "R?" (at 141.605 37.465 0)
+    (property "Reference" "R7" (at 141.605 37.465 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "100k" (at 141.605 39.37 0)
@@ -7871,7 +7887,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "R?") (unit 1)
+          (reference "R7") (unit 1)
         )
       )
     )
@@ -7880,7 +7896,7 @@
   (symbol (lib_id "Device:Crystal_Small") (at 51.435 64.135 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9155574b-6014-4c23-b1ff-0b1c55ed57d8)
-    (property "Reference" "Y?" (at 54.61 63.5 90)
+    (property "Reference" "Y2" (at 54.61 63.5 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "32.768kHz" (at 54.61 66.04 90)
@@ -7897,7 +7913,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "Y?") (unit 1)
+          (reference "Y2") (unit 1)
         )
       )
     )
@@ -7931,7 +7947,7 @@
   (symbol (lib_id "power:+3V3") (at 128.905 174.625 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 96658ecf-2219-4f40-9db0-6939b2e9b7e3)
-    (property "Reference" "#PWR?" (at 128.905 178.435 0)
+    (property "Reference" "#PWR0168" (at 128.905 178.435 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 128.905 170.815 0)
@@ -7947,7 +7963,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0168") (unit 1)
         )
       )
     )
@@ -7956,7 +7972,7 @@
   (symbol (lib_id "power:+3V3") (at 310.515 27.94 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9741160f-dd25-4f53-b09f-ea692e760373)
-    (property "Reference" "#PWR?" (at 310.515 31.75 0)
+    (property "Reference" "#PWR0125" (at 310.515 31.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 310.515 24.13 0)
@@ -7972,7 +7988,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0125") (unit 1)
         )
       )
     )
@@ -7981,7 +7997,7 @@
   (symbol (lib_id "Device:R_Small") (at 111.76 267.97 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 97b6b862-be39-4231-8f56-4191a08db862)
-    (property "Reference" "R?" (at 114.3 267.335 0)
+    (property "Reference" "R3" (at 114.3 267.335 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "100k" (at 114.3 269.875 0)
@@ -7998,7 +8014,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "R?") (unit 1)
+          (reference "R3") (unit 1)
         )
       )
     )
@@ -8029,26 +8045,26 @@
     )
   )
 
-  (symbol (lib_id "power:+3V3") (at 104.775 133.985 0) (unit 1)
+  (symbol (lib_id "power:+3V3") (at 31.115 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9913b344-7c35-4358-864d-c49c045b77dd)
-    (property "Reference" "#PWR?" (at 104.775 137.795 0)
+    (property "Reference" "#PWR0152" (at 31.115 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "+3V3" (at 104.775 130.175 0)
+    (property "Value" "+3V3" (at 31.115 129.54 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 104.775 133.985 0)
+    (property "Footprint" "" (at 31.115 133.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 104.775 133.985 0)
+    (property "Datasheet" "" (at 31.115 133.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 453a51e7-5191-4586-be7a-5895767e557f))
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0152") (unit 1)
         )
       )
     )
@@ -8057,7 +8073,7 @@
   (symbol (lib_id "power:GND") (at 278.765 133.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 99310289-bf98-4367-a856-0cf411a54ef8)
-    (property "Reference" "#PWR?" (at 278.765 139.7 0)
+    (property "Reference" "#PWR0131" (at 278.765 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 278.765 138.43 0)
@@ -8073,7 +8089,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0131") (unit 1)
         )
       )
     )
@@ -8082,7 +8098,7 @@
   (symbol (lib_id "Device:R_Small") (at 156.464 116.586 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 99f12d02-3477-47ef-8d90-2c66545fc715)
-    (property "Reference" "R?" (at 158.242 115.951 0)
+    (property "Reference" "R18" (at 158.242 115.951 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "2.2k" (at 158.242 118.491 0)
@@ -8099,7 +8115,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "R?") (unit 1)
+          (reference "R18") (unit 1)
         )
       )
     )
@@ -8130,19 +8146,19 @@
     )
   )
 
-  (symbol (lib_id "Device:C_Small") (at 78.105 146.685 0) (unit 1)
+  (symbol (lib_id "Device:C_Small") (at 114.935 153.035 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9c97bb9c-0fb2-446e-8320-fbc09f4908b1)
-    (property "Reference" "C?" (at 80.645 146.0563 0)
+    (property "Reference" "C5" (at 117.475 152.4063 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "10u" (at 80.645 148.5963 0)
+    (property "Value" "10u" (at 117.475 154.9463 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (at 78.105 146.685 0)
+    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 114.935 153.035 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 78.105 146.685 0)
+    (property "Datasheet" "~" (at 114.935 153.035 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 1812e3f0-5bfa-4573-b619-6126e5acb03e))
@@ -8150,7 +8166,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "C?") (unit 1)
+          (reference "C5") (unit 1)
         )
       )
     )
@@ -8159,7 +8175,7 @@
   (symbol (lib_id "Device:R_Small") (at 158.75 259.08 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9cee53b0-6500-4344-afa9-6bee96be99cc)
-    (property "Reference" "R?" (at 161.29 258.445 0)
+    (property "Reference" "R30" (at 161.29 258.445 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "511k" (at 161.29 260.985 0)
@@ -8176,7 +8192,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "R?") (unit 1)
+          (reference "R30") (unit 1)
         )
       )
     )
@@ -8185,13 +8201,13 @@
   (symbol (lib_id "Device:C_Small") (at 216.535 105.41 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9fe38269-6964-447d-a024-b43ab53818ce)
-    (property "Reference" "C?" (at 213.995 100.965 0)
+    (property "Reference" "C9" (at 213.995 100.965 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "4.7u" (at 215.9 103.505 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 216.535 105.41 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 216.535 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 216.535 105.41 0)
@@ -8202,7 +8218,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "C?") (unit 1)
+          (reference "C9") (unit 1)
         )
       )
     )
@@ -8211,7 +8227,7 @@
   (symbol (lib_id "Device:C_Small") (at 253.365 113.03 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a1de081c-baac-4e8b-8634-c89bd8242f2d)
-    (property "Reference" "C?" (at 255.905 112.4013 0)
+    (property "Reference" "C28" (at 255.905 112.4013 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1u" (at 255.905 114.9413 0)
@@ -8228,7 +8244,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "C?") (unit 1)
+          (reference "C28") (unit 1)
         )
       )
     )
@@ -8237,7 +8253,7 @@
   (symbol (lib_id "Device:R_Small") (at 47.625 64.135 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a39aac65-c467-47cb-895f-15ccee5fd92f)
-    (property "Reference" "R?" (at 48.895 57.15 0)
+    (property "Reference" "R23" (at 48.895 57.15 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "DNF" (at 49.53 59.055 0)
@@ -8254,7 +8270,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "R?") (unit 1)
+          (reference "R23") (unit 1)
         )
       )
     )
@@ -8263,7 +8279,7 @@
   (symbol (lib_id "Device:C_Small") (at 143.51 265.43 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a65ac0fc-7f43-4899-9637-14120977a39c)
-    (property "Reference" "C?" (at 146.05 264.16 0)
+    (property "Reference" "C1" (at 146.05 264.16 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "47u" (at 146.05 266.7 0)
@@ -8280,7 +8296,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "C?") (unit 1)
+          (reference "C1") (unit 1)
         )
       )
     )
@@ -8289,7 +8305,7 @@
   (symbol (lib_id "WatchParts:+SYS") (at 95.25 250.19 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid aa555e98-cf9e-4958-a400-ad25806ae2b6)
-    (property "Reference" "#PWR?" (at 95.25 254 0)
+    (property "Reference" "#PWR0106" (at 95.25 254 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+SYS" (at 95.25 246.38 0)
@@ -8305,32 +8321,32 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0106") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "power:GND") (at 18.415 151.765 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 61.595 158.115 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ac1ef33e-0b65-4733-894b-0c0948efc2fa)
-    (property "Reference" "#PWR?" (at 18.415 158.115 0)
+    (property "Reference" "#PWR0183" (at 61.595 164.465 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 18.415 156.845 0)
+    (property "Value" "GND" (at 61.595 163.195 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 18.415 151.765 0)
+    (property "Footprint" "" (at 61.595 158.115 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 18.415 151.765 0)
+    (property "Datasheet" "" (at 61.595 158.115 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 2fae22c8-9aed-4e24-b07c-67f272f0407c))
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0183") (unit 1)
         )
       )
     )
@@ -8339,7 +8355,7 @@
   (symbol (lib_id "Device:L_Small") (at 48.26 251.46 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ada64a90-2861-4ad7-948d-75012666d402)
-    (property "Reference" "L?" (at 48.26 247.65 90)
+    (property "Reference" "L3" (at 48.26 247.65 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10u" (at 48.26 250.19 90)
@@ -8356,7 +8372,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "L?") (unit 1)
+          (reference "L3") (unit 1)
         )
       )
     )
@@ -8365,7 +8381,7 @@
   (symbol (lib_id "power:GND") (at 321.945 135.89 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ae0b2df7-aed3-44a6-9551-62dbf071f2c2)
-    (property "Reference" "#PWR?" (at 321.945 142.24 0)
+    (property "Reference" "#PWR0129" (at 321.945 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 321.945 140.97 0)
@@ -8381,7 +8397,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0129") (unit 1)
         )
       )
     )
@@ -8390,13 +8406,13 @@
   (symbol (lib_id "Device:C_Small") (at 99.06 219.075 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b08e8e56-d1a8-4f8b-97c1-01cd099d7b35)
-    (property "Reference" "C?" (at 96.52 218.4463 0)
+    (property "Reference" "C4" (at 96.52 218.4463 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10u" (at 96.52 220.9863 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (at 99.06 219.075 0)
+    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 99.06 219.075 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 99.06 219.075 0)
@@ -8407,32 +8423,32 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "C?") (unit 1)
+          (reference "C4") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "power:+3V3") (at 78.105 141.605 0) (unit 1)
+  (symbol (lib_id "power:+3V3") (at 114.935 147.955 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b08f61f3-1989-44ba-aa6e-ebb51343ae68)
-    (property "Reference" "#PWR?" (at 78.105 145.415 0)
+    (property "Reference" "#PWR0156" (at 114.935 151.765 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "+3V3" (at 78.105 137.795 0)
+    (property "Value" "+3V3" (at 114.935 144.145 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 78.105 141.605 0)
+    (property "Footprint" "" (at 114.935 147.955 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 78.105 141.605 0)
+    (property "Datasheet" "" (at 114.935 147.955 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid a4ff9cbf-d329-4354-8910-dcc8df55da59))
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0156") (unit 1)
         )
       )
     )
@@ -8466,7 +8482,7 @@
   (symbol (lib_id "Device:L_Small") (at 34.29 31.115 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b1d6471c-9b92-4dbf-a29f-b92edb9aab40)
-    (property "Reference" "L?" (at 34.29 26.67 90)
+    (property "Reference" "L2" (at 34.29 26.67 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "1.8n" (at 34.29 29.21 90)
@@ -8483,25 +8499,25 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "L?") (unit 1)
+          (reference "L2") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "Device:C_Small") (at 18.415 146.685 0) (unit 1)
+  (symbol (lib_id "Device:C_Small") (at 61.595 153.035 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b28943a8-38b5-4e59-b362-bd059344e14e)
-    (property "Reference" "C?" (at 20.955 146.0563 0)
+    (property "Reference" "C22" (at 64.135 152.4063 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "0.1u" (at 20.955 148.5963 0)
+    (property "Value" "0.1u" (at 64.135 154.9463 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 18.415 146.685 0)
+    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 61.595 153.035 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 18.415 146.685 0)
+    (property "Datasheet" "~" (at 61.595 153.035 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 11db0900-66bb-4819-b68b-952ef3eb8700))
@@ -8509,7 +8525,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "C?") (unit 1)
+          (reference "C22") (unit 1)
         )
       )
     )
@@ -8518,13 +8534,13 @@
   (symbol (lib_id "Device:C_Small") (at 17.78 260.35 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b335d441-c3d0-4de8-86bf-0450baf574d9)
-    (property "Reference" "C?" (at 20.32 259.7213 0)
+    (property "Reference" "C3" (at 20.32 259.7213 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10u" (at 20.32 262.2613 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (at 17.78 260.35 0)
+    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 17.78 260.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 17.78 260.35 0)
@@ -8535,7 +8551,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "C?") (unit 1)
+          (reference "C3") (unit 1)
         )
       )
     )
@@ -8544,7 +8560,7 @@
   (symbol (lib_id "Device:C_Small") (at 193.675 78.105 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b36282fc-9a19-4ab3-9b9a-483f219e5542)
-    (property "Reference" "C?" (at 196.215 77.4763 0)
+    (property "Reference" "C35" (at 196.215 77.4763 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.01u" (at 196.215 80.0163 0)
@@ -8561,7 +8577,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "C?") (unit 1)
+          (reference "C35") (unit 1)
         )
       )
     )
@@ -8595,7 +8611,7 @@
   (symbol (lib_id "WatchParts:1575AT43A0040E") (at 358.775 38.1 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b59a34a0-dab9-417b-8f29-0ed4e5ed6fe9)
-    (property "Reference" "ANT?" (at 353.695 41.91 0)
+    (property "Reference" "ANT2" (at 353.695 41.91 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1575AT43A0040E" (at 353.695 34.29 0)
@@ -8612,7 +8628,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "ANT?") (unit 1)
+          (reference "ANT2") (unit 1)
         )
       )
     )
@@ -8621,7 +8637,7 @@
   (symbol (lib_id "Device:R_Small") (at 142.875 207.01 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b6406480-3a11-4921-8c78-37393b0cfbef)
-    (property "Reference" "R?" (at 140.335 203.835 0)
+    (property "Reference" "R8" (at 140.335 203.835 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100k" (at 140.97 212.725 90)
@@ -8638,25 +8654,25 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "R?") (unit 1)
+          (reference "R8") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "Power_Management:BD48KxxG") (at 104.775 146.685 0) (unit 1)
+  (symbol (lib_id "Power_Management:BD48KxxG") (at 31.115 146.05 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b679151f-1b41-493b-9937-7ebede7a92e7)
-    (property "Reference" "U?" (at 107.95 138.43 0)
+    (property "Reference" "U10" (at 34.29 137.795 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "BD48KxxG" (at 114.935 140.335 0)
+    (property "Value" "BD48KxxG" (at 41.275 139.7 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Package_TO_SOT_SMD:SOT-23" (at 104.775 159.385 0)
+    (property "Footprint" "Package_TO_SOT_SMD:SOT-23" (at 31.115 158.75 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "https://www.rohm.de/datasheet/BD4830FVE/bd48xxg-e" (at 104.775 161.925 0)
+    (property "Datasheet" "https://www.rohm.de/datasheet/BD4830FVE/bd48xxg-e" (at 31.115 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 424e10d0-1971-4fe2-b903-731c4a4763de))
@@ -8665,7 +8681,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "U?") (unit 1)
+          (reference "U10") (unit 1)
         )
       )
     )
@@ -8674,7 +8690,7 @@
   (symbol (lib_id "Device:R_Small") (at 158.75 266.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b7fe3df5-48bd-4a4d-afe8-2266eeb9897d)
-    (property "Reference" "R?" (at 161.29 266.065 0)
+    (property "Reference" "R31" (at 161.29 266.065 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "91k" (at 161.29 268.605 0)
@@ -8691,7 +8707,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "R?") (unit 1)
+          (reference "R31") (unit 1)
         )
       )
     )
@@ -8700,7 +8716,7 @@
   (symbol (lib_id "power:+3V3") (at 280.035 21.59 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ba30d5cd-70db-4df7-825c-f52e65c69c1a)
-    (property "Reference" "#PWR?" (at 280.035 25.4 0)
+    (property "Reference" "#PWR0124" (at 280.035 25.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 280.035 17.78 0)
@@ -8716,7 +8732,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0124") (unit 1)
         )
       )
     )
@@ -8725,13 +8741,13 @@
   (symbol (lib_id "Device:Thermistor_NTC") (at 106.68 219.075 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bb1b3a06-4965-4140-8f39-0571f73aa9d6)
-    (property "Reference" "TH?" (at 101.6 214.63 0)
+    (property "Reference" "TH1" (at 101.6 214.63 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (at 101.6 219.075 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 106.68 217.805 0)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 106.68 217.805 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 106.68 217.805 0)
@@ -8742,7 +8758,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "TH?") (unit 1)
+          (reference "TH1") (unit 1)
         )
       )
     )
@@ -8751,7 +8767,7 @@
   (symbol (lib_id "Device:C_Small") (at 298.45 71.755 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid bc9ce65e-3773-4af9-bc4b-528c913e1e8f)
-    (property "Reference" "C?" (at 300.99 71.1263 0)
+    (property "Reference" "C7" (at 300.99 71.1263 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10u" (at 300.99 73.6663 0)
@@ -8768,7 +8784,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "C?") (unit 1)
+          (reference "C7") (unit 1)
         )
       )
     )
@@ -8777,7 +8793,7 @@
   (symbol (lib_id "WatchParts:NJG1143UA2-TE1") (at 325.755 40.64 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid bd091b6d-67e3-4a61-a310-8113ec891e1d)
-    (property "Reference" "U?" (at 325.755 26.67 0)
+    (property "Reference" "U9" (at 325.755 26.67 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "NJG1143UA2-TE1" (at 325.755 29.21 0)
@@ -8798,25 +8814,25 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "U?") (unit 1)
+          (reference "U9") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "Device:C_Small") (at 33.655 146.685 0) (unit 1)
+  (symbol (lib_id "Device:C_Small") (at 86.36 153.035 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid be314baf-7753-4623-88f4-4ffc8e9ad3f4)
-    (property "Reference" "C?" (at 36.195 146.0563 0)
+    (property "Reference" "C32" (at 88.9 152.4063 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "0.01u" (at 36.195 148.5963 0)
+    (property "Value" "0.01u" (at 88.9 154.9463 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 33.655 146.685 0)
+    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 86.36 153.035 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 33.655 146.685 0)
+    (property "Datasheet" "~" (at 86.36 153.035 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid d7272d97-623e-4d0b-b6c4-507118030e5b))
@@ -8824,7 +8840,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "C?") (unit 1)
+          (reference "C32") (unit 1)
         )
       )
     )
@@ -8833,7 +8849,7 @@
   (symbol (lib_id "power:GND") (at 23.495 46.99 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c05c3bef-8a2a-4b25-adaa-fb4c224b16cb)
-    (property "Reference" "#PWR?" (at 23.495 53.34 0)
+    (property "Reference" "#PWR0147" (at 23.495 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 23.495 52.07 0)
@@ -8849,7 +8865,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0147") (unit 1)
         )
       )
     )
@@ -8858,7 +8874,7 @@
   (symbol (lib_id "WatchParts:IS25LP128F-JKLE") (at 48.26 100.965 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c13c5b43-1605-474c-b07d-5956ec111dfc)
-    (property "Reference" "U?" (at 29.845 85.725 0)
+    (property "Reference" "U4" (at 29.845 85.725 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "IS25LP128F-JKLE" (at 45.085 88.265 0)
@@ -8882,7 +8898,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "U?") (unit 1)
+          (reference "U4") (unit 1)
         )
       )
     )
@@ -8891,7 +8907,7 @@
   (symbol (lib_id "power:+3V3") (at 260.985 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c280735e-32b8-4595-8c17-dbc6c1b1e542)
-    (property "Reference" "#PWR?" (at 260.985 111.76 0)
+    (property "Reference" "#PWR0133" (at 260.985 111.76 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 260.985 104.14 0)
@@ -8907,7 +8923,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0133") (unit 1)
         )
       )
     )
@@ -8916,7 +8932,7 @@
   (symbol (lib_id "power:GND") (at 139.7 229.87 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c3ed1d61-f7bf-4f3a-b967-8cad5f84b023)
-    (property "Reference" "#PWR?" (at 139.7 236.22 0)
+    (property "Reference" "#PWR0101" (at 139.7 236.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 139.7 234.315 0)
@@ -8932,7 +8948,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0101") (unit 1)
         )
       )
     )
@@ -8941,7 +8957,7 @@
   (symbol (lib_id "WatchParts:EVQ-P4HB3B") (at 182.245 118.11 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c40c2229-838b-4496-9eb0-daa9f13c6435)
-    (property "Reference" "S?" (at 183.515 106.045 90)
+    (property "Reference" "S3" (at 183.515 106.045 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "EVQ-P4HB3B" (at 183.515 107.95 90)
@@ -8960,7 +8976,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "S?") (unit 1)
+          (reference "S3") (unit 1)
         )
       )
     )
@@ -8969,7 +8985,7 @@
   (symbol (lib_id "WatchParts:EVQ-P4HB3B") (at 182.245 78.105 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c4e17079-ce0e-421d-b21a-90f675d7e4eb)
-    (property "Reference" "S?" (at 183.515 66.04 90)
+    (property "Reference" "S2" (at 183.515 66.04 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "EVQ-P4HB3B" (at 183.515 67.945 90)
@@ -8988,7 +9004,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "S?") (unit 1)
+          (reference "S2") (unit 1)
         )
       )
     )
@@ -8997,7 +9013,7 @@
   (symbol (lib_id "Device:C_Small") (at 193.675 38.735 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c4e7dc34-d960-4a6a-b95e-afb87155a093)
-    (property "Reference" "C?" (at 196.215 38.1063 0)
+    (property "Reference" "C34" (at 196.215 38.1063 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.01u" (at 196.215 40.6463 0)
@@ -9014,7 +9030,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "C?") (unit 1)
+          (reference "C34") (unit 1)
         )
       )
     )
@@ -9023,7 +9039,7 @@
   (symbol (lib_id "power:GND") (at 95.25 273.05 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c6f5dd70-2f1f-4859-af5a-92456f16edb3)
-    (property "Reference" "#PWR?" (at 95.25 279.4 0)
+    (property "Reference" "#PWR0107" (at 95.25 279.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 95.25 278.13 0)
@@ -9039,7 +9055,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0107") (unit 1)
         )
       )
     )
@@ -9048,7 +9064,7 @@
   (symbol (lib_id "Device:L_Small") (at 160.655 32.385 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c7e1b896-b9d5-4716-8e05-3277e8d3cd44)
-    (property "Reference" "L?" (at 160.655 27.94 90)
+    (property "Reference" "L5" (at 160.655 27.94 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "2.2n" (at 160.655 30.48 90)
@@ -9065,7 +9081,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "L?") (unit 1)
+          (reference "L5") (unit 1)
         )
       )
     )
@@ -9074,13 +9090,13 @@
   (symbol (lib_id "Device:C_Small") (at 18.415 103.505 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c96ebb50-8bea-4962-a155-d6d410ff0abd)
-    (property "Reference" "C?" (at 18.415 101.6 0)
+    (property "Reference" "C11" (at 18.415 101.6 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1u" (at 19.05 106.045 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 18.415 103.505 0)
+    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 18.415 103.505 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 18.415 103.505 0)
@@ -9091,7 +9107,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "C?") (unit 1)
+          (reference "C11") (unit 1)
         )
       )
     )
@@ -9125,7 +9141,7 @@
   (symbol (lib_id "power:+3V3") (at 297.815 95.25 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid cbf01082-8856-4158-9f21-9ca808d3358a)
-    (property "Reference" "#PWR?" (at 297.815 99.06 0)
+    (property "Reference" "#PWR0136" (at 297.815 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 297.815 91.44 0)
@@ -9141,32 +9157,32 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0136") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "power:GND") (at 92.075 151.765 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 18.415 151.13 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid cc1dc0fa-1f14-450d-ba9d-9b5826e6284d)
-    (property "Reference" "#PWR?" (at 92.075 158.115 0)
+    (property "Reference" "#PWR0182" (at 18.415 157.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 92.075 156.845 0)
+    (property "Value" "GND" (at 18.415 156.21 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 92.075 151.765 0)
+    (property "Footprint" "" (at 18.415 151.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 92.075 151.765 0)
+    (property "Datasheet" "" (at 18.415 151.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 03a8de56-1798-4d2d-b307-fb6806cf8916))
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0182") (unit 1)
         )
       )
     )
@@ -9175,7 +9191,7 @@
   (symbol (lib_id "power:+3V3") (at 351.155 45.72 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid cc3aa704-b996-4f3d-a331-97b292d0f79e)
-    (property "Reference" "#PWR?" (at 351.155 49.53 0)
+    (property "Reference" "#PWR0127" (at 351.155 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 351.155 41.91 0)
@@ -9191,7 +9207,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0127") (unit 1)
         )
       )
     )
@@ -9200,7 +9216,7 @@
   (symbol (lib_id "Device:C_Small") (at 291.465 71.755 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid cca46c33-7c0e-4ac1-bb1b-6e7a074f4607)
-    (property "Reference" "C?" (at 294.005 71.1263 0)
+    (property "Reference" "C30" (at 294.005 71.1263 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1u" (at 294.005 73.6663 0)
@@ -9217,7 +9233,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "C?") (unit 1)
+          (reference "C30") (unit 1)
         )
       )
     )
@@ -9226,7 +9242,7 @@
   (symbol (lib_id "power:+3V3") (at 165.735 28.575 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ccf73f4b-f2fb-4531-a72b-74cf1c3041c9)
-    (property "Reference" "#PWR?" (at 165.735 32.385 0)
+    (property "Reference" "#PWR0118" (at 165.735 32.385 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 165.735 24.765 0)
@@ -9242,7 +9258,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0118") (unit 1)
         )
       )
     )
@@ -9251,7 +9267,7 @@
   (symbol (lib_id "power:GND") (at 143.51 273.05 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid cd0bc992-597b-4e42-b830-c05006ad2aa9)
-    (property "Reference" "#PWR?" (at 143.51 279.4 0)
+    (property "Reference" "#PWR0102" (at 143.51 279.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 143.51 278.13 0)
@@ -9267,7 +9283,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0102") (unit 1)
         )
       )
     )
@@ -9276,13 +9292,13 @@
   (symbol (lib_id "Device:C_Small") (at 221.615 154.305 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d1d5e58c-9cc9-46dd-b180-d1ee2c8b1a80)
-    (property "Reference" "C?" (at 219.075 147.955 0)
+    (property "Reference" "C10" (at 219.075 147.955 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "4.7u" (at 219.075 150.495 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 221.615 154.305 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 221.615 154.305 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 221.615 154.305 0)
@@ -9293,7 +9309,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "C?") (unit 1)
+          (reference "C10") (unit 1)
         )
       )
     )
@@ -9302,7 +9318,7 @@
   (symbol (lib_id "Device:R_Small") (at 128.905 178.435 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d38ad518-8908-426b-b3ab-6ea117996fc6)
-    (property "Reference" "R?" (at 130.429 176.784 0)
+    (property "Reference" "R5" (at 130.429 176.784 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100k" (at 130.175 179.07 0)
@@ -9319,7 +9335,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "R?") (unit 1)
+          (reference "R5") (unit 1)
         )
       )
     )
@@ -9328,7 +9344,7 @@
   (symbol (lib_id "Device:R_Small") (at 182.245 104.14 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d54d94c3-46cd-497c-b18e-6c18bc575657)
-    (property "Reference" "R?" (at 178.435 102.87 0)
+    (property "Reference" "R13" (at 178.435 102.87 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "100k" (at 176.53 104.775 0)
@@ -9345,7 +9361,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "R?") (unit 1)
+          (reference "R13") (unit 1)
         )
       )
     )
@@ -9354,7 +9370,7 @@
   (symbol (lib_id "power:GND") (at 111.76 273.05 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d57d6b8c-57a7-409a-8c20-c84fe7ea8156)
-    (property "Reference" "#PWR?" (at 111.76 279.4 0)
+    (property "Reference" "#PWR0111" (at 111.76 279.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 111.76 278.13 0)
@@ -9370,7 +9386,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0111") (unit 1)
         )
       )
     )
@@ -9379,7 +9395,7 @@
   (symbol (lib_id "Device:C_Small") (at 193.675 118.11 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d5bc6f82-6936-4335-a44d-d352acce2a99)
-    (property "Reference" "C?" (at 196.215 117.4813 0)
+    (property "Reference" "C36" (at 196.215 117.4813 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.01u" (at 196.215 120.0213 0)
@@ -9396,7 +9412,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "C?") (unit 1)
+          (reference "C36") (unit 1)
         )
       )
     )
@@ -9405,7 +9421,7 @@
   (symbol (lib_id "WatchParts:B39162B4327P810") (at 292.735 40.64 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d6d224c9-16b5-4b1c-b914-636d5b8758d9)
-    (property "Reference" "FL?" (at 292.735 31.75 0)
+    (property "Reference" "FL1" (at 292.735 31.75 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "B39162B4327P810" (at 292.735 34.29 0)
@@ -9425,7 +9441,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "FL?") (unit 1)
+          (reference "FL1") (unit 1)
         )
       )
     )
@@ -9434,7 +9450,7 @@
   (symbol (lib_id "power:+3V3") (at 156.464 112.268 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d79fa7e6-099f-46f6-ad10-3e64de710132)
-    (property "Reference" "#PWR?" (at 156.464 116.078 0)
+    (property "Reference" "#PWR0123" (at 156.464 116.078 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 156.464 108.458 0)
@@ -9450,7 +9466,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0123") (unit 1)
         )
       )
     )
@@ -9459,7 +9475,7 @@
   (symbol (lib_id "Device:R_Small") (at 344.805 106.68 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d811c2db-e6c0-4240-a70d-80ba4a2365ab)
-    (property "Reference" "R?" (at 346.075 104.775 0)
+    (property "Reference" "R21" (at 346.075 104.775 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "5.1k" (at 346.075 106.68 0)
@@ -9476,7 +9492,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "R?") (unit 1)
+          (reference "R21") (unit 1)
         )
       )
     )
@@ -9485,7 +9501,7 @@
   (symbol (lib_id "Device:R_Small") (at 340.995 63.5 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d9057c14-e01a-4649-ad80-1d40f1ffbf6f)
-    (property "Reference" "R?" (at 343.535 62.865 0)
+    (property "Reference" "R14" (at 343.535 62.865 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "100k" (at 343.535 65.405 0)
@@ -9502,7 +9518,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "R?") (unit 1)
+          (reference "R14") (unit 1)
         )
       )
     )
@@ -9511,7 +9527,7 @@
   (symbol (lib_id "Device:R_Small") (at 34.29 264.16 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d97ab9a5-d78f-4a55-ba00-a5cdbd6e1ba0)
-    (property "Reference" "R?" (at 36.83 263.525 0)
+    (property "Reference" "R1" (at 36.83 263.525 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "100k" (at 36.83 266.065 0)
@@ -9528,7 +9544,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "R?") (unit 1)
+          (reference "R1") (unit 1)
         )
       )
     )
@@ -9537,7 +9553,7 @@
   (symbol (lib_id "power:GND") (at 34.29 267.97 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d9d8ab65-62c4-4e2d-8268-f5be7a44faf8)
-    (property "Reference" "#PWR?" (at 34.29 274.32 0)
+    (property "Reference" "#PWR0179" (at 34.29 274.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 34.29 273.05 0)
@@ -9553,7 +9569,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0179") (unit 1)
         )
       )
     )
@@ -9562,7 +9578,7 @@
   (symbol (lib_id "power:+3V3") (at 222.25 96.52 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid da9b39e6-49a7-497b-b0b5-08c0dad4ff90)
-    (property "Reference" "#PWR?" (at 222.25 100.33 0)
+    (property "Reference" "#PWR0120" (at 222.25 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 222.25 92.71 0)
@@ -9578,7 +9594,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0120") (unit 1)
         )
       )
     )
@@ -9587,7 +9603,7 @@
   (symbol (lib_id "power:+3V3") (at 182.245 20.32 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid dcc6c529-61c6-4a00-aef3-87ac8b2340e7)
-    (property "Reference" "#PWR?" (at 182.245 24.13 0)
+    (property "Reference" "#PWR0154" (at 182.245 24.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 182.245 16.51 0)
@@ -9603,7 +9619,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0154") (unit 1)
         )
       )
     )
@@ -9612,7 +9628,7 @@
   (symbol (lib_id "Device:R_Small") (at 113.665 226.695 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid df0fc2f0-8514-454b-b7aa-6de52d5c877d)
-    (property "Reference" "R?" (at 111.125 226.06 0)
+    (property "Reference" "R27" (at 111.125 226.06 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "DNF" (at 111.125 228.6 0)
@@ -9629,7 +9645,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "R?") (unit 1)
+          (reference "R27") (unit 1)
         )
       )
     )
@@ -9638,7 +9654,7 @@
   (symbol (lib_id "Device:C_Small") (at 351.155 50.8 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid df64c046-b7f9-46b8-b914-58d115bfcfcb)
-    (property "Reference" "C?" (at 353.695 50.1713 0)
+    (property "Reference" "C45" (at 353.695 50.1713 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.001u" (at 353.695 52.7113 0)
@@ -9655,7 +9671,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "C?") (unit 1)
+          (reference "C45") (unit 1)
         )
       )
     )
@@ -9664,7 +9680,7 @@
   (symbol (lib_id "Device:R_Small") (at 211.455 124.46 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e154a874-bce8-4c1f-8f3d-f3704f9f4d18)
-    (property "Reference" "R?" (at 213.36 123.825 0)
+    (property "Reference" "R32" (at 213.36 123.825 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1M" (at 213.36 126.365 0)
@@ -9681,7 +9697,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "R?") (unit 1)
+          (reference "R32") (unit 1)
         )
       )
     )
@@ -9690,7 +9706,7 @@
   (symbol (lib_id "power:GND") (at 343.535 113.03 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e16c190c-7ef4-454b-b1b7-a97387599ee3)
-    (property "Reference" "#PWR?" (at 343.535 119.38 0)
+    (property "Reference" "#PWR0128" (at 343.535 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 343.535 118.11 0)
@@ -9706,7 +9722,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0128") (unit 1)
         )
       )
     )
@@ -9715,7 +9731,7 @@
   (symbol (lib_id "Connector:USB_C_Receptacle_USB2.0") (at 321.945 110.49 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e1c65571-2a36-45e7-9173-672e2976e7c4)
-    (property "Reference" "J?" (at 321.945 88.9 0)
+    (property "Reference" "J2" (at 321.945 88.9 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "USB" (at 321.945 91.44 0)
@@ -9747,7 +9763,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "J?") (unit 1)
+          (reference "J2") (unit 1)
         )
       )
     )
@@ -9756,7 +9772,7 @@
   (symbol (lib_id "Device:C_Small") (at 43.815 60.325 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e3266764-b5bb-4221-af03-7912899b1f22)
-    (property "Reference" "C?" (at 43.815 62.865 90)
+    (property "Reference" "C39" (at 43.815 62.865 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10p" (at 43.815 65.405 90)
@@ -9773,7 +9789,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "C?") (unit 1)
+          (reference "C39") (unit 1)
         )
       )
     )
@@ -9782,13 +9798,13 @@
   (symbol (lib_id "Device:C_Small") (at 82.55 261.62 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e3cfb546-2f3e-4ca0-9543-77a22bff3382)
-    (property "Reference" "C?" (at 85.09 260.9913 0)
+    (property "Reference" "C15" (at 85.09 260.9913 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1u" (at 85.09 263.5313 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 82.55 261.62 0)
+    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 82.55 261.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 82.55 261.62 0)
@@ -9799,7 +9815,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "C?") (unit 1)
+          (reference "C15") (unit 1)
         )
       )
     )
@@ -9808,7 +9824,7 @@
   (symbol (lib_id "Device:C_Small") (at 158.115 148.59 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e4485f29-b99a-494d-a47e-b373578c9992)
-    (property "Reference" "C?" (at 160.655 147.9613 0)
+    (property "Reference" "C33" (at 160.655 147.9613 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.01u" (at 160.655 150.5013 0)
@@ -9825,7 +9841,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "C?") (unit 1)
+          (reference "C33") (unit 1)
         )
       )
     )
@@ -9834,7 +9850,7 @@
   (symbol (lib_id "Device:R_Small") (at 182.245 24.765 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e474b14e-4f16-4be3-b849-e7bbe20177e7)
-    (property "Reference" "R?" (at 178.435 23.495 0)
+    (property "Reference" "R11" (at 178.435 23.495 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "100k" (at 176.53 25.4 0)
@@ -9851,7 +9867,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "R?") (unit 1)
+          (reference "R11") (unit 1)
         )
       )
     )
@@ -9860,7 +9876,7 @@
   (symbol (lib_id "Device:C_Small") (at 43.815 47.625 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e5667e1c-e4cc-4356-88de-9df33c954509)
-    (property "Reference" "C?" (at 43.8086 42.545 90)
+    (property "Reference" "C37" (at 43.8086 42.545 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "18p" (at 43.8086 45.085 90)
@@ -9877,7 +9893,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "C?") (unit 1)
+          (reference "C37") (unit 1)
         )
       )
     )
@@ -9886,7 +9902,7 @@
   (symbol (lib_id "power:GND") (at 211.455 132.715 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e9631f83-c132-47ab-a9d1-9d136c38ba17)
-    (property "Reference" "#PWR?" (at 211.455 139.065 0)
+    (property "Reference" "#PWR0145" (at 211.455 139.065 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 211.455 137.795 0)
@@ -9902,7 +9918,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0145") (unit 1)
         )
       )
     )
@@ -9911,7 +9927,7 @@
   (symbol (lib_id "power:GND") (at 260.985 118.11 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid eb6bcbc3-abe2-491a-bb3e-b88f13f6a77b)
-    (property "Reference" "#PWR?" (at 260.985 124.46 0)
+    (property "Reference" "#PWR0130" (at 260.985 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 260.985 123.19 0)
@@ -9927,7 +9943,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0130") (unit 1)
         )
       )
     )
@@ -9936,7 +9952,7 @@
   (symbol (lib_id "power:+3V3") (at 298.45 66.675 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid eb771759-7654-4ad1-8086-d7e438a0f497)
-    (property "Reference" "#PWR?" (at 298.45 70.485 0)
+    (property "Reference" "#PWR0142" (at 298.45 70.485 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "+3V3" (at 298.45 62.865 0)
@@ -9952,7 +9968,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0142") (unit 1)
         )
       )
     )
@@ -9983,26 +9999,26 @@
     )
   )
 
-  (symbol (lib_id "power:+3V3") (at 70.485 141.605 0) (unit 1)
+  (symbol (lib_id "power:+3V3") (at 107.315 147.955 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ef7e832d-7afa-4385-bfdb-2b0f7f3717df)
-    (property "Reference" "#PWR?" (at 70.485 145.415 0)
+    (property "Reference" "#PWR0157" (at 107.315 151.765 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "+3V3" (at 70.485 137.795 0)
+    (property "Value" "+3V3" (at 107.315 144.145 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 70.485 141.605 0)
+    (property "Footprint" "" (at 107.315 147.955 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 70.485 141.605 0)
+    (property "Datasheet" "" (at 107.315 147.955 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid a7af82ff-7e33-47a6-81e8-da732880e93b))
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0157") (unit 1)
         )
       )
     )
@@ -10011,7 +10027,7 @@
   (symbol (lib_id "power:GND") (at 34.29 46.99 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f0c4af12-d66b-4ebe-9ba2-0a34b06b7566)
-    (property "Reference" "#PWR?" (at 34.29 53.34 0)
+    (property "Reference" "#PWR0148" (at 34.29 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 34.29 52.07 0)
@@ -10027,7 +10043,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0148") (unit 1)
         )
       )
     )
@@ -10036,7 +10052,7 @@
   (symbol (lib_id "Device:Battery_Cell") (at 26.035 220.98 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f1523379-dd65-42d5-a105-63864e4a3cef)
-    (property "Reference" "BT?" (at 24.13 209.55 0)
+    (property "Reference" "BT1" (at 24.13 209.55 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "ASR00007" (at 24.13 212.09 0)
@@ -10053,25 +10069,25 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "BT?") (unit 1)
+          (reference "BT1") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "Device:C_Small") (at 116.205 153.035 0) (unit 1)
+  (symbol (lib_id "Device:C_Small") (at 42.545 152.4 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f154e56e-d063-4010-a285-3a089eaa32e9)
-    (property "Reference" "C?" (at 118.745 152.4063 0)
+    (property "Reference" "C31" (at 45.085 151.7713 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "0.01u" (at 118.745 154.9463 0)
+    (property "Value" "0.01u" (at 45.085 154.3113 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 116.205 153.035 0)
+    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 42.545 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 116.205 153.035 0)
+    (property "Datasheet" "~" (at 42.545 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 931a9aa1-eb68-4992-803e-1849e88a0c2b))
@@ -10079,7 +10095,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "C?") (unit 1)
+          (reference "C31") (unit 1)
         )
       )
     )
@@ -10088,7 +10104,7 @@
   (symbol (lib_id "Device:R_Small") (at 78.105 83.185 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f2c005bd-2586-4669-a0c4-736242360d77)
-    (property "Reference" "R?" (at 79.375 81.28 90)
+    (property "Reference" "R26" (at 79.375 81.28 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "470R" (at 80.645 85.725 90)
@@ -10105,7 +10121,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "R?") (unit 1)
+          (reference "R26") (unit 1)
         )
       )
     )
@@ -10114,7 +10130,7 @@
   (symbol (lib_id "power:GND") (at 158.75 273.05 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f6c95f74-2bc4-431f-87eb-4c7808cab84c)
-    (property "Reference" "#PWR?" (at 158.75 279.4 0)
+    (property "Reference" "#PWR0103" (at 158.75 279.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 158.75 278.13 0)
@@ -10130,32 +10146,32 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0103") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "power:+3V3") (at 33.655 141.605 0) (unit 1)
+  (symbol (lib_id "power:+3V3") (at 86.36 147.955 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fdd6094e-b8f4-4ef6-a6be-6dc175a08478)
-    (property "Reference" "#PWR?" (at 33.655 145.415 0)
+    (property "Reference" "#PWR0159" (at 86.36 151.765 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "+3V3" (at 33.655 137.795 0)
+    (property "Value" "+3V3" (at 86.36 144.145 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 33.655 141.605 0)
+    (property "Footprint" "" (at 86.36 147.955 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 33.655 141.605 0)
+    (property "Datasheet" "" (at 86.36 147.955 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid aa34112c-92b5-48fe-8527-ab2734a22fcd))
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0159") (unit 1)
         )
       )
     )
@@ -10164,7 +10180,7 @@
   (symbol (lib_id "Device:C_Small") (at 26.035 103.505 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fe47d7fa-a707-4170-a044-c0f17223c7ed)
-    (property "Reference" "C?" (at 26.035 101.6 0)
+    (property "Reference" "C21" (at 26.035 101.6 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "0.1u" (at 26.035 106.045 0)
@@ -10181,7 +10197,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "C?") (unit 1)
+          (reference "C21") (unit 1)
         )
       )
     )
@@ -10190,7 +10206,7 @@
   (symbol (lib_id "Connector_Generic:Conn_01x24") (at 237.49 122.555 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fed65883-1378-4167-93ca-b0c076f54fcf)
-    (property "Reference" "J?" (at 240.03 123.19 0)
+    (property "Reference" "J1" (at 240.03 123.19 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "OLED" (at 240.03 125.73 0)
@@ -10229,7 +10245,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "J?") (unit 1)
+          (reference "J1") (unit 1)
         )
       )
     )
@@ -10238,7 +10254,7 @@
   (symbol (lib_id "WatchParts:BQ24075RGTR") (at 123.825 202.565 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid feff8973-f6d5-4f35-8206-ff6675c78d74)
-    (property "Reference" "U?" (at 122.555 198.12 0)
+    (property "Reference" "U6" (at 122.555 198.12 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "BQ24075RGTR" (at 116.84 202.565 0)
@@ -10270,7 +10286,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "U?") (unit 1)
+          (reference "U6") (unit 1)
         )
       )
     )
@@ -10279,7 +10295,7 @@
   (symbol (lib_id "power:GND") (at 291.465 76.835 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid ff01a1ce-c17a-4653-9bf7-8b7a33843cd3)
-    (property "Reference" "#PWR?" (at 291.465 83.185 0)
+    (property "Reference" "#PWR0140" (at 291.465 83.185 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 291.465 81.915 0)
@@ -10295,7 +10311,7 @@
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
-          (reference "#PWR?") (unit 1)
+          (reference "#PWR0140") (unit 1)
         )
       )
     )
