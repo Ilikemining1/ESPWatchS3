@@ -9,9 +9,9 @@ Component Selection
 | Component | Model | Datasheet |
 |-----------|-------|-----------|
 | MCU | ESP32-S3R8 | [ESP32-S3](https://www.espressif.com/sites/default/files/documentation/esp32-s3_datasheet_en.pdf) |
-| Display | CFAL128128B0-011W | [CFAL128128B0-011W](https://www.crystalfontz.com/products/document/3814/CFAL128128B0-011W_Datasheet.pdf) |
-| Environmental Sensor | BME280 | [BME280](https://www.mouser.com/datasheet/2/783/bst_bme280_ds002-2238172.pdf) |
-| GNSS Receiver | EVA-M8Q-0 | [EVA-M8Q](https://www.mouser.com/datasheet/2/1025/EVA_M8_FW3_DataSheet__UBX_16014189_-2010107.pdf) |
+| Display | CFAF240240A3-013TN  | [CFAF240240A3-013TN ](https://www.crystalfontz.com/products/document/4754/CFAF240240A3-013TNDatasheet.pdf) |
+| Barometric Pressure Sensor | BMP390 | [BMP390](https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bmp390-ds002.pdf) |
+| GNSS Receiver | MIA-M10Q-0 | [MIA-M10Q](https://content.u-blox.com/sites/default/files/documents/MIA-M10Q_DataSheet_UBX-22015849.pdf) |
 | Flash | IS25LP128F-JKLE (16MB) | [IS25WP128](https://www.issi.com/WW/pdf/25LP-WP128F.pdf) |
 | | | |
 | Battery Charger | BQ24075RGTR | [BQ24075](https://www.ti.com/lit/ds/symlink/bq24075.pdf) |
@@ -20,7 +20,7 @@ Component Selection
 | Battery Connector | SM02B-SRSS-TB(LF)(SN) | [SM02B-SRSS-TB(LF)(SN)](https://www.jst-mfg.com/product/pdf/eng/eSH.pdf) |
 | | | |
 | Main SMPS | TPS631000DRLR | [TPS631000](https://www.ti.com/lit/ds/symlink/tps631000.pdf) |
-| OLED SMPS | AP3012KTR-G1 | [AP3012](https://www.diodes.com/assets/Datasheets/AP3012.pdf) |
+| OLED SMPS | AP3036BKTR-G1 | [AP3036](https://www.diodes.com/assets/Datasheets/AP3036.pdf) |
 
 ESP GPIO Allocation
 -------------------
