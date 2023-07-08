@@ -31,11 +31,11 @@ ESP GPIO Allocation
 | 2 | I<sup>2</sup>C SCL |
 | 3 | JTAG Source Select (Strapping) |
 | 4 | Charger Status |
-| 5 | Power Good |
+| 5 | Main SMPS Enable |
 | 6 | Input Current 1 |
 | 7 | Input Current 2 |
 | 8 | SMPS Mode |
-| 9 | OLED VCC Enable |
+| 9 | OLED SMPS Enable |
 | 10 | OLED CS |
 | 11 | OLED MOSI |
 | 12 | OLED SCK |
