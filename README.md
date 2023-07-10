@@ -11,6 +11,7 @@ Component Selection
 | MCU | ESP32-S3R8 | [ESP32-S3](https://www.espressif.com/sites/default/files/documentation/esp32-s3_datasheet_en.pdf) |
 | Display | CFAF240240A3-013TN  | [CFAF240240A3-013TN ](https://www.crystalfontz.com/products/document/4754/CFAF240240A3-013TNDatasheet.pdf) |
 | Barometric Pressure Sensor | BMP390 | [BMP390](https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bmp390-ds002.pdf) |
+| IMU | ICM-42688-P | [ICM-42688-P](https://invensense.tdk.com/wp-content/uploads/2022/12/DS-000347-ICM-42688-P-v1.7.pdf) |
 | GNSS Receiver | MIA-M10Q-0 | [MIA-M10Q](https://content.u-blox.com/sites/default/files/documents/MIA-M10Q_DataSheet_UBX-22015849.pdf) |
 | Flash | IS25LP128F-JKLE (16MB) | [IS25WP128](https://www.issi.com/WW/pdf/25LP-WP128F.pdf) |
 | | | |
@@ -39,8 +40,8 @@ ESP GPIO Allocation
 | 10 | LCD CS |
 | 11 | LCD MOSI |
 | 12 | LCD SCK |
-| 13 | FREE |
-| 14 | FREE |
+| 13 | IMU INT1 |
+| 14 | IMU INT2 |
 | 15 | 32KHz XTAL |
 | 16 | 32KHz XTAL |
 | 17 | GNSS RX (UART 1 TX) |
