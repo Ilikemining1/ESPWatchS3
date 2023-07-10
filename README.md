@@ -20,7 +20,7 @@ Component Selection
 | Battery Connector | SM02B-SRSS-TB(LF)(SN) | [SM02B-SRSS-TB(LF)(SN)](https://www.jst-mfg.com/product/pdf/eng/eSH.pdf) |
 | | | |
 | Main SMPS | TPS631000DRLR | [TPS631000](https://www.ti.com/lit/ds/symlink/tps631000.pdf) |
-| LED Driver | | []() |
+| LED Driver | MIC5353YMT | [MIC5353YMT](http://ww1.microchip.com/downloads/en/DeviceDoc/mic5353.pdf) |
 
 ESP GPIO Allocation
 -------------------
@@ -30,17 +30,17 @@ ESP GPIO Allocation
 | 1 | I<sup>2</sup>C SDA |
 | 2 | I<sup>2</sup>C SCL |
 | 3 | JTAG Source Select (Strapping) FREE |
-| 4 | FREE |
+| 4 | Fuel Gauge Interrupt |
 | 5 | SMPS Enable |
 | 6 | SMPS Mode |
 | 7 | Input Current 1 |
 | 8 | Input Current 2 |
-| 9 | FREE |
+| 9 | LCD Backlight PWM |
 | 10 | LCD CS |
 | 11 | LCD MOSI |
 | 12 | LCD SCK |
 | 13 | LCD DC |
-| 14 | FREE |
+| 14 | LCD TE |
 | 15 | 32KHz XTAL |
 | 16 | 32KHz XTAL |
 | 17 | GNSS RX (UART 1 TX) |
@@ -55,7 +55,7 @@ ESP GPIO Allocation
 | 39 | User Switch 1 |
 | 40 | User Switch 2 |
 | 41 | User Switch 3 |
-| 42 | User Switch 4 |
+| 42 | Power Switch |
 | 43 | UART 0 TX |
 | 44 | UART 0 RX |
 | 45 | Flash Voltage Select (Strapping) FREE |
