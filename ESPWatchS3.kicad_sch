@@ -1721,13 +1721,13 @@
         )
       )
       (symbol "CDSQR400B_1_1"
-        (pin passive line (at 3.81 0 180) (length 2.54)
-          (name "A" (effects (font (size 1.27 1.27))))
-          (number "" (effects (font (size 1.27 1.27))))
-        )
         (pin passive line (at -3.81 0 0) (length 2.54)
           (name "K" (effects (font (size 1.27 1.27))))
-          (number "" (effects (font (size 1.27 1.27))))
+          (number "1" (effects (font (size 1.27 1.27))))
+        )
+        (pin passive line (at 3.81 0 180) (length 2.54)
+          (name "A" (effects (font (size 1.27 1.27))))
+          (number "2" (effects (font (size 1.27 1.27))))
         )
       )
     )
@@ -10205,8 +10205,8 @@
     (property "Datasheet" "https://www.mouser.com/datasheet/2/80/CDSQR400B_HF_RevC213726-2505922.pdf" (at 262.89 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "" (uuid 3f0a67c3-5f4d-4e81-9347-a7fa6de244ef))
-    (pin "" (uuid 3f0a67c3-5f4d-4e81-9347-a7fa6de244ef))
+    (pin "1" (uuid 5102a13c-b75e-4f85-9772-d39399956430))
+    (pin "2" (uuid e159d65c-16b5-495b-8667-a532274897c5))
     (instances
       (project "ESPWatchS3"
         (path "/bf5b2c41-bb33-4360-ba29-22d569e03292"
