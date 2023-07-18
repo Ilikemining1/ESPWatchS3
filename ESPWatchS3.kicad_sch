@@ -8270,7 +8270,7 @@
     (property "Value" "22u" (at 241.935 27.94 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Inductor_SMD:L_1210_3225Metric" (at 241.935 29.21 0)
+    (property "Footprint" "WatchParts:IND_VLS201612CX-220M-1" (at 241.935 29.21 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 241.935 29.21 0)

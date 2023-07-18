@@ -60,7 +60,23 @@
           "width": 0.25
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "courtyards_overlap|31585001|30369999|19185a0a-6961-471b-8a7d-9faafed686de|c1fc73fc-7053-4546-9dbd-fa82b3793188",
+        "courtyards_overlap|32190001|30369999|19185a0a-6961-471b-8a7d-9faafed686de|b91e2f29-e956-4c4e-8d04-80dc4f587bc9",
+        "courtyards_overlap|33230001|30369999|09242a23-fcb1-42ac-b38a-d42520be2693|19185a0a-6961-471b-8a7d-9faafed686de",
+        "net_conflict|28700000|24000000|45e54be3-016d-400b-8df1-f68312addc52|00000000-0000-0000-0000-000000000000",
+        "net_conflict|28700000|24000000|5d1f573f-30d3-456e-9909-2dd4c7c4b5dc|00000000-0000-0000-0000-000000000000",
+        "net_conflict|28700000|51000000|2efea9cd-436d-4428-9c12-691c576b3fce|00000000-0000-0000-0000-000000000000",
+        "net_conflict|28700000|51000000|71a6a59b-865f-4a1e-bc80-afa96e1d86ef|00000000-0000-0000-0000-000000000000",
+        "net_conflict|29500000|37500000|0f4fe98f-c7de-4f2a-bbd3-7bdf5c67affe|00000000-0000-0000-0000-000000000000",
+        "net_conflict|29500000|37500000|13d6fb7f-9f98-41fe-91b5-f5e9f1a486b5|00000000-0000-0000-0000-000000000000",
+        "net_conflict|29500000|37500000|2fbc9b70-16a8-4e88-a044-4e25829c2bda|00000000-0000-0000-0000-000000000000",
+        "net_conflict|29500000|37500000|e3b4173e-3426-4bf0-9420-76e98f656663|00000000-0000-0000-0000-000000000000",
+        "net_conflict|59300000|24000000|ea5fca73-7857-4a23-92ae-545e27894f25|00000000-0000-0000-0000-000000000000",
+        "net_conflict|59300000|24000000|fcf7c8e5-2b76-4714-9cb4-fcdfebdd9a8a|00000000-0000-0000-0000-000000000000",
+        "net_conflict|59300000|51000000|1706a3df-c0bf-4a50-8c54-391ee7ab54a9|00000000-0000-0000-0000-000000000000",
+        "net_conflict|59300000|51000000|93ab9e1b-7f13-4f28-92cb-52fa92b865f5|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "version": 2
       },
@@ -69,7 +85,7 @@
         "clearance": "error",
         "connection_width": "warning",
         "copper_edge_clearance": "error",
-        "copper_sliver": "warning",
+        "copper_sliver": "ignore",
         "courtyards_overlap": "error",
         "diff_pair_gap_out_of_range": "error",
         "diff_pair_uncoupled_length_too_long": "error",
@@ -129,7 +145,7 @@
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.3,
         "min_track_width": 0.09,
-        "min_via_annular_width": 0.09999999999999999,
+        "min_via_annular_width": 0.075,
         "min_via_diameter": 0.44999999999999996,
         "solder_mask_clearance": 0.0,
         "solder_mask_min_width": 0.0,
