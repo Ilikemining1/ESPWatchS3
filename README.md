@@ -21,7 +21,7 @@ Component Selection
 | Battery Connector | SM02B-SRSS-TB(LF)(SN) | [SM02B-SRSS-TB(LF)(SN)](https://www.jst-mfg.com/product/pdf/eng/eSH.pdf) |
 | | | |
 | Main SMPS | TPS631000DRLR | [TPS631000](https://www.ti.com/lit/ds/symlink/tps631000.pdf) |
-| LED Driver | | []() |
+| LED Driver | AP3036B | [AP3036B](https://www.diodes.com/assets/Datasheets/AP3036B.pdf) |
 
 ESP GPIO Allocation
 -------------------
