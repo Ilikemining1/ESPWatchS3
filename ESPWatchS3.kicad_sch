@@ -6163,7 +6163,7 @@
     (property "Reference" "ANT1" (at 24.13 24.765 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "W3008G" (at 24.13 26.67 0)
+    (property "Value" "W3008C" (at 24.13 26.67 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "WatchParts:ANTENNA_W3008" (at 23.495 10.795 0)
