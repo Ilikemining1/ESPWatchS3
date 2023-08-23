@@ -68,8 +68,8 @@
   (pad "3" smd rect (at -3.2 0.85) (size 0.6 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1ed0f0c6-e155-4a73-98d0-cd00b2516ea1))
   (pad "4" smd rect (at 3.2 0.85) (size 0.6 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 57689736-c240-4754-b2da-3fd8ec456d65))
   (model "${KIPRJMOD}/Libraries/3D/EVQ-P4HB3B.step"
-    (offset (xyz 0 -1.9 1.6))
+    (offset (xyz 0 -1.6 -0.4))
     (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 0))
+    (rotate (xyz 90 0 -180))
   )
 )
