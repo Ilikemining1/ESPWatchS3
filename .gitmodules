@@ -1,0 +1,12 @@
+[submodule "ESPWatchOS/components/arduino"]
+	path = ESPWatchOS/components/arduino
+	url = https://github.com/espressif/arduino-esp32.git
+[submodule "ESPWatchOS/components/tft_espi"]
+	path = ESPWatchOS/components/tft_espi
+	url = https://github.com/Bodmer/TFT_eSPI.git
+[submodule "ESPWatchOS/components/lvgl"]
+	path = ESPWatchOS/components/lvgl
+	url = https://github.com/lvgl/lvgl.git
+[submodule "ESPWatchOS/components/sparkfun_bq27441"]
+	path = ESPWatchOS/components/sparkfun_bq27441
+	url = https://github.com/sparkfun/SparkFun_BQ27441_Arduino_Library.git
